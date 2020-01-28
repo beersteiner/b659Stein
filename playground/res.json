@@ -1,0 +1,649 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "parse": "(ROOT\n  (S\n    (NP (NNP David) (NNP Crandall))\n    (VP (VBZ is)\n      (VP (VBG working)\n        (PP (IN on)\n          (NP\n            (NP (NN AI))\n            (CC and)\n            (NP (NNP Vision))))))\n    (. .)))",
+      "basicDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 4,
+          "dependentGloss": "working"
+        },
+        {
+          "dep": "compound",
+          "governor": 2,
+          "governorGloss": "Crandall",
+          "dependent": 1,
+          "dependentGloss": "David"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 2,
+          "dependentGloss": "Crandall"
+        },
+        {
+          "dep": "aux",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 3,
+          "dependentGloss": "is"
+        },
+        {
+          "dep": "case",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 5,
+          "dependentGloss": "on"
+        },
+        {
+          "dep": "nmod",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 6,
+          "dependentGloss": "AI"
+        },
+        {
+          "dep": "cc",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 7,
+          "dependentGloss": "and"
+        },
+        {
+          "dep": "conj",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 8,
+          "dependentGloss": "Vision"
+        },
+        {
+          "dep": "punct",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 9,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 4,
+          "dependentGloss": "working"
+        },
+        {
+          "dep": "compound",
+          "governor": 2,
+          "governorGloss": "Crandall",
+          "dependent": 1,
+          "dependentGloss": "David"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 2,
+          "dependentGloss": "Crandall"
+        },
+        {
+          "dep": "aux",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 3,
+          "dependentGloss": "is"
+        },
+        {
+          "dep": "case",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 5,
+          "dependentGloss": "on"
+        },
+        {
+          "dep": "nmod:on",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 6,
+          "dependentGloss": "AI"
+        },
+        {
+          "dep": "cc",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 7,
+          "dependentGloss": "and"
+        },
+        {
+          "dep": "nmod:on",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 8,
+          "dependentGloss": "Vision"
+        },
+        {
+          "dep": "conj:and",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 8,
+          "dependentGloss": "Vision"
+        },
+        {
+          "dep": "punct",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 9,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedPlusPlusDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 4,
+          "dependentGloss": "working"
+        },
+        {
+          "dep": "compound",
+          "governor": 2,
+          "governorGloss": "Crandall",
+          "dependent": 1,
+          "dependentGloss": "David"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 2,
+          "dependentGloss": "Crandall"
+        },
+        {
+          "dep": "aux",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 3,
+          "dependentGloss": "is"
+        },
+        {
+          "dep": "case",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 5,
+          "dependentGloss": "on"
+        },
+        {
+          "dep": "nmod:on",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 6,
+          "dependentGloss": "AI"
+        },
+        {
+          "dep": "cc",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 7,
+          "dependentGloss": "and"
+        },
+        {
+          "dep": "nmod:on",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 8,
+          "dependentGloss": "Vision"
+        },
+        {
+          "dep": "conj:and",
+          "governor": 6,
+          "governorGloss": "AI",
+          "dependent": 8,
+          "dependentGloss": "Vision"
+        },
+        {
+          "dep": "punct",
+          "governor": 4,
+          "governorGloss": "working",
+          "dependent": 9,
+          "dependentGloss": "."
+        }
+      ],
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 2,
+          "tokenBegin": 0,
+          "tokenEnd": 2,
+          "text": "David Crandall",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 14,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "David",
+          "originalText": "David",
+          "lemma": "David",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "speaker": "PER0",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Crandall",
+          "originalText": "Crandall",
+          "lemma": "Crandall",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 14,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 17,
+          "pos": "VBZ",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "working",
+          "originalText": "working",
+          "lemma": "work",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 25,
+          "pos": "VBG",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 28,
+          "pos": "IN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "AI",
+          "originalText": "AI",
+          "lemma": "ai",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 31,
+          "pos": "NN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 35,
+          "pos": "CC",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Vision",
+          "originalText": "Vision",
+          "lemma": "Vision",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 42,
+          "pos": "NNP",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 43,
+          "pos": ".",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "parse": "(ROOT\n  (S\n    (NP (PRP He))\n    (VP (VBZ lives)\n      (PP (IN in)\n        (NP (NNP Bloomington))))\n    (. .)))",
+      "basicDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 2,
+          "dependentGloss": "lives"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 1,
+          "dependentGloss": "He"
+        },
+        {
+          "dep": "case",
+          "governor": 4,
+          "governorGloss": "Bloomington",
+          "dependent": 3,
+          "dependentGloss": "in"
+        },
+        {
+          "dep": "nmod",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 4,
+          "dependentGloss": "Bloomington"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 5,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 2,
+          "dependentGloss": "lives"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 1,
+          "dependentGloss": "He"
+        },
+        {
+          "dep": "case",
+          "governor": 4,
+          "governorGloss": "Bloomington",
+          "dependent": 3,
+          "dependentGloss": "in"
+        },
+        {
+          "dep": "nmod:in",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 4,
+          "dependentGloss": "Bloomington"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 5,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedPlusPlusDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 2,
+          "dependentGloss": "lives"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 1,
+          "dependentGloss": "He"
+        },
+        {
+          "dep": "case",
+          "governor": 4,
+          "governorGloss": "Bloomington",
+          "dependent": 3,
+          "dependentGloss": "in"
+        },
+        {
+          "dep": "nmod:in",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 4,
+          "dependentGloss": "Bloomington"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "lives",
+          "dependent": 5,
+          "dependentGloss": "."
+        }
+      ],
+      "entitymentions": [
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 13,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "Bloomington",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 67,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 10,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "He",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 46,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "lemma": "he",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 46,
+          "pos": "PRP",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "lives",
+          "originalText": "lives",
+          "lemma": "live",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 52,
+          "pos": "VBZ",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 55,
+          "pos": "IN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Bloomington",
+          "originalText": "Bloomington",
+          "lemma": "Bloomington",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 67,
+          "pos": "NNP",
+          "ner": "CITY",
+          "speaker": "PER0",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 68,
+          "pos": ".",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ],
+  "corefs": {
+    "1": [
+      {
+        "id": 1,
+        "text": "David Crandall",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "MALE",
+        "animacy": "ANIMATE",
+        "startIndex": 1,
+        "endIndex": 3,
+        "headIndex": 2,
+        "sentNum": 1,
+        "position": [
+          1,
+          1
+        ],
+        "isRepresentativeMention": true
+      },
+      {
+        "id": 5,
+        "text": "He",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "MALE",
+        "animacy": "ANIMATE",
+        "startIndex": 1,
+        "endIndex": 2,
+        "headIndex": 1,
+        "sentNum": 2,
+        "position": [
+          2,
+          1
+        ],
+        "isRepresentativeMention": false
+      }
+    ],
+    "2": [
+      {
+        "id": 2,
+        "text": "AI and Vision",
+        "type": "LIST",
+        "number": "PLURAL",
+        "gender": "UNKNOWN",
+        "animacy": "UNKNOWN",
+        "startIndex": 6,
+        "endIndex": 9,
+        "headIndex": 6,
+        "sentNum": 1,
+        "position": [
+          1,
+          2
+        ],
+        "isRepresentativeMention": true
+      }
+    ],
+    "3": [
+      {
+        "id": 3,
+        "text": "Vision",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "NEUTRAL",
+        "animacy": "INANIMATE",
+        "startIndex": 8,
+        "endIndex": 9,
+        "headIndex": 8,
+        "sentNum": 1,
+        "position": [
+          1,
+          3
+        ],
+        "isRepresentativeMention": true
+      }
+    ],
+    "4": [
+      {
+        "id": 4,
+        "text": "Bloomington",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "NEUTRAL",
+        "animacy": "INANIMATE",
+        "startIndex": 4,
+        "endIndex": 5,
+        "headIndex": 4,
+        "sentNum": 2,
+        "position": [
+          2,
+          2
+        ],
+        "isRepresentativeMention": true
+      }
+    ]
+  },
+  "sections": [
+  ]
+}
