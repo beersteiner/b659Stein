@@ -14,25 +14,22 @@ def qualifyChild(e):
     ]: return False     # don't expect natural language to reside in head or scripts
     return True
 
+
 # Only accept text from elements that pass these tests
 def qualifyElement(e):
-    if e.name in [
-        "button",
-        "a",
-    ]: return False                                     # ignore buttons and links/anchors
-    if type(e.text) != str: return False                # make sure text is unicode/str
-    if len(e.text) < 1: return False                    # ignore empty strings
     return True
 
+
 # Recursively extract text from an element tree
-def recursiveText(e, t):
-    children = e.findChildren(recursive=False)          # get child elements
-    if len(children) > 0:                               # DFS through tree
-        for c in children:
-            if qualifyChild(c): t = recursiveText(c, t) # recur through children
-    elif qualifyElement(e):                             # if leaf, get text
-        t = t + e.get_text() + "\n"                     # accumulate text
+def elementDFS(e, t):
+    for c in e.children:
+        if c.string:
+            t += str(c.string)                          # accumulate text
+            if type(c) != type(e): t += "\n"            # if leaf/navigable-string
+        elif type(c) == type(e):                        # this element is a tag
+            if qualifyChild(c): t = elementDFS(c, t)    # recur through children
     return t
+
 
 # Clean and process resulting text
 def clean(t):
@@ -47,7 +44,7 @@ def clean(t):
 
 
 
-
+# Hard-coded (for now) example urls to search
 srcs = [
     "https://medlineplus.gov/ency/article/002458.htm",
     "https://www.healthline.com/nutrition/11-most-nutrient-dense-foods-on-the-planet",
@@ -56,11 +53,11 @@ srcs = [
     "https://familydoctor.org/changing-your-diet-choosing-nutrient-rich-foods/",
 ]
 
+# Iterate through urls
 for src in srcs:
     snm = slugify(src) # establish base file stem name
 
     # Retrieve and save source html file
-    # urlretrieve(src, filename="dataRaw_" + snm)
     req = urllib.request.Request(
         src,
         data=None,
@@ -87,9 +84,9 @@ for src in srcs:
             metafile.write(meta)
             metafile.close()
 
-        # Obtain result set and extract text
+        # create soup object and extract text
         with open("dataClean_" + snm + ".txt", mode='wt') as outfile:
-            out1 = recursiveText(soup.find(), "")
-            out2 = clean(out1)
-            outfile.write(out2)
+            out1 = elementDFS(soup.find(), "")  # grab first root element and extract text via DFS
+            out2 = clean(out1)                  # clean/process text
+            outfile.write(out2)                 # save to file
             outfile.close()
