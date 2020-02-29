@@ -51,6 +51,11 @@ srcs = [
     "https://www.healthline.com/nutrition/50-super-healthy-foods",
     "https://www.bbc.com/future/article/20180126-the-100-most-nutritious-foods",
     "https://familydoctor.org/changing-your-diet-choosing-nutrient-rich-foods/",
+    "https://www.webmd.com/vitamins-and-supplements/features/healthy-foods#1",
+    "https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health",
+    "https://www.health.harvard.edu/staying-healthy/add-more-nutrient-dense-foods-to-your-diet",
+    "https://www.foxnews.com/health/foods-that-work-better-together",
+    "https://www.health.com/nutrition/11-superfoods-that-work-better-together",
 ]
 
 # Iterate through urls
