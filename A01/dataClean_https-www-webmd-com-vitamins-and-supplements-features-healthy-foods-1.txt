@@ -1,0 +1,1329 @@
+
+
+    $(function(){
+
+        require(["global_nav/1/global_nav"], function(global_nav) {
+
+            global_nav.init();
+
+        });
+
+    });
+
+Skip to main content
+
+Check Your Symptoms
+
+Find A Doctor
+
+Find A Dentist
+
+Find Lowest Drug Prices
+
+Health
+
+A-Z
+
+Health A-Z
+
+Health A-Z
+
+Common Conditions
+
+ADD/ADHD
+
+Allergies
+
+Arthritis
+
+Cancer
+
+Cold, Flu & Cough
+
+Depression
+
+Diabetes
+
+Eye Health
+
+Heart Disease
+
+Lung Disease
+
+Orthopedics
+
+Pain Management
+
+Sexual Conditions
+
+Skin Problems
+
+Sleep Disorders
+
+View All
+
+Resources
+
+Symptom Checker
+
+WebMD Blogs
+
+Podcasts
+
+Message Boards
+
+Questions & Answers
+
+Insurance Guide
+
+Find a Doctor
+
+Children's Conditions A-Z
+
+Surgeries and Procedures A-Z
+
+Featured Topics
+
+Slideshow
+
+Get Help for Migraine Relief
+
+Slideshow
+
+Things That Can Hurt Your Joints
+
+Drugs &
+
+ Supplements
+
+Drugs & Supplements
+
+Drugs & Supplements
+
+Find & Review
+
+Drugs
+
+Supplements
+
+Tools
+
+Manage Your Medications
+
+Pill Identifier
+
+Check for Interactions
+
+Drug Basics & Safety
+
+Commonly Abused Drugs
+
+Taking Meds When Pregnant
+
+Featured Topics
+
+Slideshow
+
+Vitamins You Need as You Age
+
+Slideshow
+
+Supplements for Better Digestion
+
+Living
+
+ Healthy
+
+Living Healthy
+
+Living Healthy
+
+Diet, Food & Fitness
+
+Diet & Weight Management
+
+Weight Loss & Obesity
+
+Food & Recipes
+
+Fitness & Exercise
+
+Beauty & Balance
+
+Healthy Beauty
+
+Health & Balance
+
+Sex & Relationships
+
+Oral Care
+
+Living Well
+
+Women's Health
+
+Men's Health
+
+Aging Well
+
+Healthy Sleep
+
+Healthy Teens
+
+Featured Topics
+
+Article
+
+Smart Grocery Shopping When You Have Diabetes
+
+Quiz
+
+Do You Know the Benefits of Walking?
+
+Family &
+
+ Pregnancy
+
+Family & Pregnancy
+
+Family & Pregnancy
+
+All About Pregnancy
+
+Getting Pregnant
+
+First Trimester
+
+Second Trimester
+
+Third Trimester
+
+View All
+
+Parenting Guide
+
+Newborn & Baby
+
+Children's Health
+
+Children's Vaccines
+
+Raising Fit Kids
+
+View All
+
+Pet Care Essentials
+
+Healthy Cats
+
+Healthy Dogs
+
+View All
+
+Featured Topics
+
+Slideshow
+
+Smart Snacks When You're Pregnant
+
+Slideshow
+
+Surprising Things You Didn't Know About Dogs and Cats
+
+News &
+
+ Experts
+
+News & Experts
+
+News & Experts
+
+Health News
+
+Coronavirus Outbreak: Latest News & Updates
+
+Hidden Dangers of Ultraprocessed Foods
+
+Harmful Side Effects of Blood Pressure Drug
+
+Mediterranean Diet Is Good for Your Gut
+
+Is It the Flu, or 'Flu-Like Illness'?
+
+Experts & Community
+
+Message Boards
+
+WebMD Blogs
+
+News Center
+
+Featured Topics
+
+WebMD Investigates
+
+Why Can't We Sleep?
+
+Newsletters
+
+Sign Up to Receive Our Free Newsletters
+
+ repo: module-html-shared/hotfix-PPE-183315-update-global-nav-mobile-link@1.12.0-8-g2bb4692 - Package Version: 1.12.1 - 2019-02-01 11:18 am - User: Mary Brewer
+
+Mobile AppsSubscriptions
+
+Sign InSubscribeMy ProfileMy ToolsMy WebMD PagesMy AccountSign Out
+
+                    var priTopId='1638', secTopId='';
+
+
+
+Vitamins & Supplements Home
+
+Find a Vitamin
+
+Find by Condition
+
+Reference
+
+Slideshows
+
+Quizzes
+
+Videos
+
+Questions & Answers
+
+ No Shared module mapped for widget Id:091e9c5e813ec929 DM category:091e9c5e812c55e5 Channel:1169 Program:
+
+ No Shared module mapped for widget Id:091e9c5e813ec92a DM category:091e9c5e812c5798 Channel:1169 Program:
+
+Related to Vitamins & Supplements
+
+Drugs & Medications
+
+Pill Identifier
+
+My Medicine
+
+Interaction Checker
+
+Diet & Weight Management
+
+Food & Recipes
+
+                    var priTopId='1638', secTopId='';
+
+
+
+Vitamins and Supplements
+
+Feature Stories
+
+ No Shared module mapped for widget Id:091e9c5e81437ec0 DM category:091e9c5e813fe38a Channel:1169 Program:
+
+ No Shared module mapped for widget Id:091e9c5e817c35d9 DM category:091e9c5e817b70af Channel:1169 Program:
+
+ No Shared module mapped for widget Id:091e9c5e813fd2d4 DM category:091e9c5e812c55e9 Channel:1169 Program:
+
+	window.videoMap = {
+
+          inArtVideo: {
+
+		enableMobile: false, /* If falsy, videos wont load on that device */
+
+		enableTablet: false,
+
+		enableDesktop: true
+
+          }
+
+	}
+
+window.videoSpecialTopics = [
+
+1629,
+
+1662,
+
+1667,
+
+1678,
+
+1688,
+
+1822,
+
+1827,
+
+1830,
+
+1834,
+
+1835,
+
+3052,
+
+3553,
+
+3554,
+
+3556,
+
+3557,
+
+3629,
+
+3630,
+
+3641,
+
+3645,
+
+4030,
+
+4051,
+
+4054,
+
+4223
+
+]
+
+						$(function(){
+
+							require(['webmd.threestackmetrics/1/webmd.threestackmetrics'],function(webmd_threestackmetrics){
+
+								 webmd_threestackmetrics.init();
+
+							});
+
+						});
+
+
+
+{
+
+	"@context": "http://schema.org/",
+
+	"@type": "MedicalWebPage",
+
+	"mainEntityOfPage": "https://www.webmd.com/vitamins-and-supplements/features/healthy-foods",
+
+	"lastReviewed": "03/01/2012 23:00:00",
+
+	"reviewedBy": {
+
+		"@type": "Person",
+
+		"name": "Kathleen M. Zelman, MPH, RD, LD"
+
+	},
+
+	"about": "Vitamins and Supplements",
+
+	"datePublished": "03/07/2012 21:31:17",
+
+	"headline": "10 Foods Nutritionists Love",
+
+	"author": {
+
+		"@type": "Person",
+
+		"name": "Wendy C. Fries"
+
+	},
+
+	"dateModified": "03/07/2012 21:31:17",
+
+	"publisher": {
+
+		"@type": "Organization",
+
+		"name": "WebMD",
+
+		"logo": {
+
+			"@type": "ImageObject",
+
+			"url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"
+
+		}
+
+	}
+
+}
+
+10 Foods Nutritionists Love
+
+By
+
+Wendy C. Fries
+
+					require.config({
+
+						paths: {
+
+							"webmd.m.socialshareplugin": "socialshareplugin/2/webmd.m.socialshareplugin.min"
+
+						}
+
+					});
+
+
+
+						requirejs(['infnite-article/1/responsive-infinite-article.min']);
+
+
+
+
+
+					$(function(){
+
+						require(["webmd.m.socialshareplugin", "css!socialshareplugin/2/socialshareplugin.min.css"], function(socialshare) {
+
+							$(".module-social-share-container").socialshareplugin({shareOrder: ["facebook","twitter","pinterest","save","email","print","listen"]});
+
+						});
+
+					});
+
+From the WebMD Archives
+
+In a perfect world, everything we eat would taste delicious, be super-convenient, and offer plenty of nutritional benefits.
+But do such foods exist in the real world?
+
+They certainly do -- and hard-to-find specialty foods need not apply.
+These 10 nutritionists' favorites are versatile and delicious, and most can be prepared in a flash.
+
+Beans
+
+Calypso, scarlet, black turtle, cranberry -- even the variety names of this delicious food are pretty cool.
+
+They’re such a nutrient dynamo that beans are the only food recognized in two food groups, vegetables and proteins, says Connie Evers, RD, author of
+
+How to Teach
+
+Nutrition to Kids.
+
+Beans are high in low-fat protein, packed with fiber, and contain a host of
+
+nutrients and
+
+phytonutrients, the combination of which may help guard against
+
+diabetes,
+
+cardiovascular disease, and some cancers while also building and repairing muscle.
+
+Add beans to soups, stews, and chili.
+Sprinkle them in salads, and add them to burritos or scrambled eggs.
+Or try blending beans with spices for great spreads or dips.
+
+Greek Yogurt
+
+Smooth, creamy, and extra-thick, Greek yogurt is a great source of protein,
+
+potassium, and
+
+calcium and is also an important source of
+
+probiotics.
+
+The
+
+nutrients in yogurt help build strong bones, aid digestion, and keep your immune system going strong.
+Along with having less watery whey than regular yogurt -- which helps make the Greek variety super-thick -- Greek yogurt also has less sodium and fewer carbs than regular yogurt and packs twice the protein.
+
+Use plain nonfat Greek yogurt as a base for salad dressings, dips, and smoothies, suggests Evers, or try topping soups, stews, nachos, or chili with it.
+If you like your yogurt sweet, add a teaspoon of jam and sprinkle in some nuts or seeds and you've got a quick, healthy on-the-go
+
+breakfast.
+
+Sweet Potatoes
+
+One of the most nutritious vegetables you can eat -- especially if you leave the skins on -- sweet potatoes are rich in
+
+heart-healthy potassium and
+
+vision-boosting
+
+vitamin A. Fat- and
+
+cholesterol-free, sweet potatoes also have a rich, sugary flavor while still being low in calories.
+
+Cubed sweet potatoes cook up quickly in the microwave, or you can toss them with a bit of oil and seasonings and roast them in the oven.
+Sweet potatoes can also give body to stews and a sweet flavor to lasagnas and other casseroles.
+
+Continued
+
+Powerhouse Peanuts
+
+Like other legumes, peanuts are packed with the protein your body needs to build and repair muscle.
+They also contain mono- and polyunsaturated fats, important for
+
+heart health.
+The nutrients in peanuts possibly may lower your risk for
+
+cardiovascular disease,
+
+type 2 diabetes, and
+
+metabolic syndrome.
+
+Eat peanuts with their thin red skins on, suggests David Grotto, RD, author of
+
+101 Foods That Could Save Your Life!, and you'll get the same
+
+antioxidants you find in wine and
+
+chocolate.
+
+Kefir
+
+Kefir is a fermented drink usually made with cow, goat, or sheep's milk, though it can also be made from rice, coconut, or soy milk.
+
+Described by some as a mildly carbonated liquid yogurt, kefir is rich in
+
+calcium and protein and is also "a good source of
+
+magnesium, riboflavin, folate, and B12," says Grotto.
+Like yogurt, kefir contains probiotics, which not only aid digestion but may also help manage
+
+symptoms of IBS or
+
+Crohn's disease.
+These probiotics may also treat or prevent vaginal or urinary infections in women.
+
+Kefir can be a nutritious, drinkable
+
+breakfast or quick, filling snack, but you can also blend it in smoothies and shakes or add it to soups, breads, and other baked goods.
+
+Vitamin-C Rich Strawberries
+
+Strawberries may be the favorite fruit of summer.
+More than just juicy and sweet, strawberries also pack 160% of your daily
+
+vitamin C inside that succulent scarlet
+
+skin.
+
+Strawberries are a great source for digestion-boosting fiber, for vitamin C, which helps keep
+
+teeth and gums in good condition, and for flavonoids, which may improve mental function and fight
+
+breast and
+
+prostate cancer.
+
+Fresh or frozen, strawberries "are a
+
+nutrition powerhouse," Grotto says, so add them to a summer salad, make a succulent fruit salsa, or drizzle ripe, ruby-red strawberries with a bit of dark
+
+chocolate for a healthier alternative to cake.
+
+Mushrooms
+
+Mushrooms don't just add flavor to a stir-fry; they're also low in calories and an excellent source of the
+
+cancer-fighting mineral,
+
+selenium.
+
+Additionally, these humble plants are the highest vegetarian source of
+
+vitamin D and they're high in copper and potassium, nutrients needed for normal heart rhythm, nerve function, and red
+
+blood cell production.
+
+Mushrooms cook in a flash and pair equally well with vegetarian,
+
+vegan, or meaty meals.
+Slice them onto sandwiches or into salads, or put them in any recipe that could use a more toothsome texture.
+
+Continued
+
+Pineapple
+
+"I love pineapple!"
+says Elisa Zied, RD, author of
+
+Nutrition at Your Fingertips.
+A great source of vitamin C, this super-sweet fruit is also rich in minerals, fiber, B
+
+vitamins, and enzymes.
+
+The nutrients found in pineapple -- and so many other fruits and veggies -- may lower
+
+blood pressure, protect against
+
+cancer, and help keep bowel habits regular.
+
+Enjoy fresh or canned pineapple paired with other fruits in a salad or a quick smoothie.
+Top chicken or fish with pineapple, or use it in cakes, pies, and tarts.
+
+Pistachio Nuts
+
+Pistachios aren't just delicious.
+They also contain good-for-you fats,
+
+vitamins like thiamin, B6, and E as well as potassium, magnesium, and fiber -- one nutrient many of us just don't get enough of.
+
+These tasty nuts also provide antioxidants, which help fight cell-damaging free radicals, and some research suggests they may even play a role in reducing the risk of
+
+type 2 diabetes and
+
+heart disease.
+
+Add pistachios to stir-fries, salads, or cooked vegetables or as part of a trail mix with whole-grain cereal and dried fruit, suggests Zied.
+You can even substitute pistachios for pine nuts or walnuts in your next homemade pesto.
+
+Sunflower Seeds
+
+Sunflower seeds are small, but they're mighty.
+They contain healthy monounsaturated and polyunsaturated fats, which may lower your cardiovascular risks and lower blood pressure, and have protein and fiber, both of which help fill you up, says Zied.
+
+Sunflower seeds are a source of key nutrients like
+
+vitamin E, folate, thiamin,
+
+niacin, and iron and also pack in phytochemicals, plant chemicals that protect against
+
+heart disease and some cancers.
+
+Try raw or salt-free roasted sunflower seeds on their own or in salads, stir-fries, or side dishes.
+You can also boost the nutrient profile of breads and muffins by adding a healthy handful.
+
+Crunchy Snack: Popcorn
+
+It's crunchy and a bit addictive, but popcorn can be good for you.
+
+That's because popcorn is actually a whole grain -- and most of us aren't getting nearly enough in our diets, says Zied.
+Air-popped popcorn is low-fat, has only 30 calories per cup, and comes with a boost of fiber, protein, vitamins, and minerals.
+It even contains antioxidants that can protect against
+
+cancer.
+
+Amp up the flavor of air-popped popcorn by sprinkling on low- or no-sodium seasonings like garlic or onion powder, grated parmesan cheese, chili powder, nutritional yeast, or
+
+cinnamon.
+
+WebMD Feature
+
+Reviewed by
+
+Kathleen M. Zelman, MPH, RD, LD on March 01, 2012
+
+Sources
+
+SOURCES:
+
+Connie Evers, MS, RD, author,
+
+How to Teach Nutrition to Kids.
+
+David Grotto, RD, LDN, author,
+
+101 Optimal Life Foods and
+
+ 101 Foods That Could Save Your Life!
+
+Elisa Zied, MS, RD, CDN, author,
+
+Nutrition at Your Fingertips.
+
+University of Massachusetts Medical School, Worcester: "Power-Packed Protein."
+
+National Institutes of Health: "Bromelain's Activity And Potential As An Anti-Cancer Agent: Current Evidence And Perspectives."
+
+National Institutes of Health: "Your Guide to Lowering Your Blood Pressure With DASH."
+
+The University of Tennessee Medical Center: "The Benefits of Eating Greek Yogurt."
+
+Harvard Health Publications, Harvard Medical School: "Eating Nuts Promotes Cardiovascular Health," "Health Benefits of Taking Probiotics," "Fats and Cholesterol: Out with the Bad, In with the Good."
+
+University of Illinois Extension: "Sweet Potato."
+
+USDA: "Nutrient Data on Mushrooms Updated."
+
+University of Texas Southwestern Medical Center: "Low Vitamin D Levels Linked To Depression, UT Southwestern Psychiatrists Report."
+
+Plants for Human Health Institute, North Carolina State University: "N.C.
+Strawberry Project."
+
+© 2012 WebMD, LLC.
+All rights reserved.
+
+						$(document).ready(function() {
+
+							var $firstArtImg = $(".article-body .article-page p:nth-of-type(1) img");
+
+							var aspcaLogo;
+
+							// if article has an image in first paragraph
+
+								if ($firstArtImg.length > 0) {
+
+									aspcaLogo = $firstArtImg.attr('src').indexOf('163x68_aspca_reference');
+
+								// if image is ASPCA logo
+
+									if (aspcaLogo !== -1) {
+
+										$firstArtImg.hide();
+
+									}
+
+								}
+
+						});
+
+
+
+				(function(){
+
+					// Set PG=1 in the first Ad Call
+
+					webmd.ads2.setPageTarget('pg', 1);
+
+					// Some test Topic Id's & Buisness Ref for testing moving the ad higher into page 1
+
+					var moveAdTopicIds = [], // Place in Topic Ids  in the array example: ['1234','5678']
+
+						moveAdBuisRef = ['Feature','Medical Reference','News'],
+
+						moveAdAfter = 1; // Number of which node to place the ad after
+
+					// If we only have 1 page in the article we place the Ad on the top of the footer
+
+					if($('.article-page').length === 1){
+
+						$('article footer').prepend('<div class="bottom-ad-override"></div>');
+
+					} else {
+
+						// If we match both our test Topic Ids and Buisness Ref we want to place the ad in the middle of page 1
+
+						if($.inArray(window.s_topic, moveAdTopicIds) > -1 && $.inArray(window.s_business_reference, moveAdBuisRef) > -1){
+
+							// The logic below reads count all nodes in page 1.
+Exclude the footer,ol,ul and table elements.
+Use the varible
+
+							// moveAdAfter to know which node to place the Ad container after.
+
+							window.placeAd = function(pn) {
+
+								var nodeTags = ['p', 'h3','aside', 'ul'],
+
+									nodes,
+
+									target;
+
+								nodes = $('.article-page:nth-child(' + pn + ')').find(nodeTags.join()).not('p:empty').not('footer *').not('ol *, ul *, table *');
+
+								//target = nodes.eq(Math.floor(nodes.length / 2));
+
+								target = nodes.eq(moveAdAfter);
+
+								$('<div class="bottom-ad-override"></div>').insertAfter(target);
+
+							}
+
+							// Currently passing in 1 to move the Ad in to page 1
+
+							window.placeAd(1);
+
+						} else {
+
+							// This is the default location on the bottom of page 1
+
+							$('.article-page:nth-child(1)').append('<div class="bottom-ad-override"></div>');
+
+						}
+
+					}
+
+				})();
+
+				$(function(){
+
+					// Create a new conatiner where we will make our lazy load Ad call if the reach the footer section of the article
+
+					$('.main-container-3').prepend('<div id="ads2-pos-2026-ad-right-replacement" class="module ad ad-2026"></div>');
+
+				});
+
+
+
+						$(function(){
+
+							require(['webmd.pagination/1/webmd.pagination'],function(webmd_pagination){
+
+								 webmd_pagination.init();
+
+							});
+
+						});
+
+
+
+Pagination
+
+Top Picks
+
+Video: Why You Need Zinc and Where to Find It
+
+Vitamin K: How Much Do You Need?
+
+Is Garcinia Cambogia Safe for Weight Loss?
+
+8 Supplements for Digestive Health
+
+Vitamins You Need as You Age
+
+Why Do People Take Biotin?
+
+                    var priTopId='1638', secTopId='';
+
+
+
+                        (function () {
+
+                        window.placeICM = function(pn) {
+
+                                var nodeTags = ['p:not(:empty)', 'h3','aside', 'ul'],
+
+                                    excludeTags = ['embeded_module *', 'footer *', 'ol *', 'ul *', 'table *'],
+
+                                  nodes,
+
+                                  active,
+
+                                  target;
+
+                                if ($('.ad-5000').length) {
+
+                                  if ($('.active-page').length){
+
+                                        active = $('.active-page');
+
+                                        if (active.length > 1) {
+
+                                                nodes = $(active.eq(pn -1)).find(nodeTags.join()).not(excludeTags.join());
+
+                                        } else {
+
+                                            nodes = $('.active-page').find(nodeTags.join()).not(excludeTags.join());
+
+                                        }
+
+                                  } else {
+
+                                    nodes = $('.article-page:nth-child(' + pn + ')').find(nodeTags.join()).not(excludeTags.join());
+
+                                  }
+
+                                  target = nodes.eq(nodes.length - Math.floor(nodes.length / 4) - 1);
+
+                                  if (s_publication_source.indexOf("Healthwise") === -1) {
+
+                                    $('.ad-5000').insertAfter(target);
+
+                                  }
+
+                                }
+
+                              }
+
+                        window.placeICM(1)
+
+                    })();
+
+
+
+                    var priTopId='1638', secTopId='';
+
+
+
+ No Shared module mapped for widget Id:091e9c5e81437ec1 DM category:091e9c5e813fe389 Channel:1169 Program:
+
+Today on WebMD
+
+Vitamins Quiz
+
+Do you know your vitamin ABCs?
+
+
+
+									if($('#ads2-pos-921-ad-right').length > 0 && $('.ad').first().data('is-mobile') === true) {
+
+														$('#ads2-pos-921-ad-right').removeClass('ad-921').addClass('ad-1921').attr('id', 'ads2-pos-1921-ad-right').data('pos', '1921');
+
+									}
+
+
+
+
+
+11 Supplements for Menopause
+
+Ease hot flashes and other symptoms.
+
+Vitamin B12
+
+Are you getting enough?
+
+Vitamin D
+
+Wonder pill or overkill?
+
+ No Shared module mapped for widget Id:091e9c5e81695234 DM category:091e9c5e81673cc6 Channel:1169 Program:
+
+                    var priTopId='1638', secTopId='';
+
+
+
+Recommended for You
+
+Video
+
+Powerhouse Fruits and Veggies
+
+Slideshow
+
+Supplements You Shouldn't Try
+
+Slideshow
+
+Why You Need Vitamin E
+
+Article
+
+St. John's Wort for Depression
+
+Article
+
+Garcinia Cambogia: Is It Safe for Weight Loss?
+
+Article
+
+Vitamin K: How Much Do You Need?
+
+Article
+
+Fiber for Heart, Cholesterol, and Digestive Health
+
+Slideshow
+
+Are You Getting the Vitamins You Need?
+
+                    var priTopId='1638', secTopId='';
+
+
+
+                        // Removes Popular Tools & Resources OAS from TOC pages or
+
+                        // where www.webmd.com is followed by "news-features"
+
+                        // Create array(s) of the ID's to add the Tools module to
+
+                        var s_topic = s_topic || "",
+
+                        	s_business_reference = s_business_reference || "",
+
+                        	s_publication_source = s_publication_source ||"",
+
+                        	s_channel_health = s_channel_health || "",
+
+                        	cssBlockOverride = [
+
+                        		'Glossary',
+
+                        		'Nav - A-Z page',
+
+                        		'WebMD Image Collection'
+
+                        		],
+
+                        	sTopicException = ['7002','7006','7019','7022','7023','7024']; // Exceptions we want to show
+
+
+
+                        // if the publication source (s_publication_source) or
+
+                        // the business reference (s_business_reference) isn't in the array or
+
+                        // the channel (s_channel_health) is equal to 'Health Insurance and Medicare'
+
+                        if ( cssBlockOverride.indexOf(s_publication_source) === -1 ||  cssBlockOverride.indexOf(s_business_reference) === -1 || s_channel_health === 'Health Insurance and Medicare') {
+
+                        	// if the Topic ID's (s_topic ID) first number is not 7 or
+
+                        	// the Topic ID (s_topic ID) is included in the sTopicException array and
+
+                        	// the business reference (s_business_reference) is not in the cssBlockOverride Array
+
+                        	if ((s_topic.substring(0, 1) !== "7" || sTopicException.indexOf(s_topic) >= 0) && cssBlockOverride.indexOf(s_business_reference) === -1) {
+
+                        		$('.module-tools-and-resources').css('display', 'block');
+
+                        		webmd.oas = window.webmd.oas || {};
+
+                        		webmd.oas.mapping = window.webmd.oas.mapping || {};
+
+                        		webmd.oas.mapping['oas_tools_and_resources'] = ['x56', 'x57', 'x58', 'x59', 'x60', 'x61'];
+
+                        	}
+
+                        }
+
+
+
+Tools & ResourcesHow Zinc Helps: the BasicsDo You Need Vitamin K Supplements?Is Garcinia Cambogia Safe for Weight Loss?The Best Supplements for Healthy DigestionHow to Get the Protective Power of Vitamin KVitamin ABCs: What Are You Missing?<a class="{type_prefix}{type}" data-metrics-link="{link_position}" href="{href}">{alt}{i_tag}</a>
+
+                    if (window.$) {
+
+                    	$(function () {
+
+                    		// produce array from value(s) of 'secTopId'
+
+                    		var mySplitResultsecTopId = secTopId.split("|");
+
+
+
+                    		// Hides the Pop Tools list on pages with a sensitive secondary topic id.
+
+                    		$.each(mySplitResultsecTopId, function (i, item) {
+
+                    			item = item.toString();
+
+                    			if (item.substring(0,1) === '7' && $.inArray(item, sTopicException) === -1) {
+
+                    				$('.module-tools-and-resources').hide();
+
+                    			}
+
+                    		});
+
+
+
+                    		// Hides the Pop Tools list on Actionset Pages
+
+                    		if ($('.actionset').length > 0) {
+
+                    			$('.module-tools-and-resources').hide();
+
+                    		}
+
+                    	});
+
+                    }
+
+
+
+ No Shared module mapped for widget Id:091e9c5e813ece18 DM category:091e9c5e8147333f Channel:1169 Program:
+
+                        require(['newsletter/1/mapping-centers-desktop'], function(module){
+
+                          module.init({
+
+                            selector: "#newsletter-mapping-center",
+
+                            template: {
+
+                              successMsg: '<p class="success">You will receive your first newsletter with our next scheduled circulation!</p>',
+
+                              content: '' +
+
+                                '<div class="wrapper">\n' +
+
+                                '<div class="nls-header">{header}</div>\n' +
+
+                                '{preContent}' +
+
+                                '<div class="nls-content">\n' +
+
+                                '{preForm}' +
+
+                                '<form method="POST" class="nls-form" action="#" novalidate="novalidate" >\n' +
+
+                                '<div class="validationWrapper"><div class="checkbox-container clearfix"><fieldset><legend class="visually-hidden">Select your newsletters:</legend>{inputs}</fieldset></div></div>\n' +
+
+                                '<div class="input-container">\n' +
+
+                                '<div class="email-container validationWrapper">\n' +
+
+                                '<label for="nls-email" class="visually-hidden">Enter email address:</label><input id="nls-email" type="email" class="nls-email" name="email" autocapitalize="off" autocorrect="off" placeholder="Enter email address" /> ' +
+
+                                '<button name="nl-submit" formnovalidate class="off {submitClass}" type="submit">Subscribe</button>\n' +
+
+                                '<div class="clearfix"></div>' +
+
+                                '</div>\n' + // .email-container
+
+                                '</div>\n' + // .input-container
+
+                                '<div class="privacy-disclaimer">' +
+
+                                '<em>By clicking "Submit," I agree to the WebMD <a href="https://www' + webmd.url.getLifecycle() + '.webmd.com/about-webmd-policies/about-terms-and-conditions-of-use" class="newsletter-terms" target="_blank">Terms and Conditions</a> and <a href="https://www' + webmd.url.getLifecycle() + '.webmd.com/about-webmd-policies/about-privacy-policy" class="newsletter-privacy" target="_blank">Privacy Policy</a>.
+I also agree to receive emails from WebMD and I understand that I may opt out of WebMD subscriptions at any time.</em>' +
+
+                                '</div>' + // .privacy-disclaimer
+
+                                '</form>\n' +
+
+                                '{postForm}' +
+
+                                '</div>\n' + // .nls-content
+
+                                '{postContent}' +
+
+                                '</div>',
+
+                                header: '<header><h3>Subscribe to {title} Newsletter</h3></header>',
+
+                                headerMulti: '<header><h3>Subscribe to WebMD Newsletters</h3></header>',
+
+                                submitClass: 'webmd-btn webmd-btn-pr webmd-btn-s',
+
+                                successHeader: '<header><h3>Thank you for signing up</h3></header>',
+
+                                promo: '<div class="promo"><div class="promo-content clearfix"><img src="{image}" alt="WebMD App" /><div class="promo-description"><p>{text}</p><p class="promoLink"><a href="{url}" class="webmd-btn webmd-btn-pr webmd-btn-m" onclick="wmdPageLink(\'nlupgrd_sub\')">{button}</a></p><div class="clearfix"></div></div></div></div>'
+
+                            }
+
+                          });
+
+                        });
+
+
+
+ No Shared module mapped for widget Id:091e9c5e81d31510 DM category:091e9c5e81d1bb40 Channel:1169 Program:
+
+                    var priTopId='1638', secTopId='';
+
+
+
+Health Solutions
+
+Penis Curved When Erect
+
+MS Tips
+
+The HPV Vaccine
+
+Pediatric Hospital 101
+
+Holistic Cancer Care
+
+Answers for Infant Reflux
+
+Immunotherapy for Cancer
+
+Is My Penis Normal?
+
+Pediatric Surgery 101
+
+Aging & Addiction
+
+Avoid Colds This Winter
+
+Treatments for Psoriasis
+
+Relapse & Recovery
+
+Medicare Personal Consultations
+
+Opioid Addiction
+
+Bent Fingers?
+
+More from WebMD
+
+MS: Tools to Keep Your Mind Sharp
+
+How MS Affects Your Mind
+
+What Are Blocked Hair Follicles?
+
+How Severe Is Your Psoriasis?
+
+Find Psoriatic Arthritis Flare
+
+A Personal Story of RA
+
+Beat Crohn's Flares
+
+Psoriasis in the Salon
+
+End Endometriosis Pain: 9 Tips
+
+Common Psoriasis Triggers
+
+Types of Spinal Muscular Atrophy
+
+How Beta Thalassemia Is Treated
+
+Psoriatic Arthritis and Your Sleep
+
+Finding the Best MS Care Team
+
+Multiple Myeloma Explained
+
+Where Breast Cancer Spreads
+
+Visit WebMD on Facebook
+
+Visit WebMD on Twitter
+
+Visit WebMD on Pinterest
+
+PoliciesPrivacy PolicyCookie PolicyEditorial PolicyAdvertising PolicyCorrection PolicyTerms of UseAboutContact UsAbout WebMDCareersNewsletterCorporateWebMD Health ServicesSite MapAccessibilityWebMD NetworkMedscapeMedscape ReferenceMedicineNeteMedicineHealthRxListOnHealthWebMDRxFirst AidWebMD MagazineWebMD Health RecordDictionaryPhysician DirectoryOur AppsWebMD MobileWebMD AppPregnancyBabyAllergyMedscapeFor AdvertisersAdvertise with UsAdvertising Policy
+
+ repo: module-html-shared/hotfix-PPE-226757-suppress-comscore-beacon-before-gdpr-consent@1.17.1-3-g123ee69 - Package Version: 1.17.2 - 2019-12-04 04:49 pm - User: Scott Cody
+
+© 2005 - 2019 WebMD LLC.
+All rights reserved.WebMD does not provide medical advice, diagnosis or treatment.See additional information.window.gdprMatch||function(){var o=window.s_before_pv;window.s_before_pv=function(){var c=Number(new Date);"http:"===window.location.protocol&&webmd.load({image:"//b.scorecardresearch.com/b?c1=2&c2=6035829&c3=&c4=&c5=&c6=&c7="+encodeURIComponent(window.location.href)+"&c9="+encodeURIComponent(window.document.referrer)+"&c15=&cv=2.0&cj=1&cb="+c}),"https:"===window.location.protocol&&webmd.load({image:"//sb.scorecardresearch.com/b?c1=2&c2=6035829&c3=&c4=&c5=&c6=&c7="+encodeURIComponent(window.location.href)+"&c9="+encodeURIComponent(window.document.referrer)+"&c15=&cv=2.0&cj=1&cb="+c}),o()}}()require(["waypoints/2/waypoints"],function(){var t=$("#footer-certs");new Waypoint({element:document.getElementsByClassName("global-footer")[0],handler:function(e){"down"===e&&0===$(".global-footer-certificates").length&&(t.replaceWith(t.text()),window.webmd.externalLinks&&window.webmd.externalLinks.init())},offset:"100%"})})
+
+ repo: module-html-shared/release-site-optimization-sprint-20@1.18.0-0-gb5f9ede - Package Version: 1.18.0 - 2019-11-08 10:29 am - User: Scott Cody
+
+function pixelForFacebook(){var e,t,n,i,r,o;e=window,t=document,n="script",e.fbq||(i=e.fbq=function(){i.callMethod?i.callMethod.apply(i,arguments):i.queue.push(arguments)},e._fbq||(e._fbq=i),(i.push=i).loaded=!0,i.version="2.0",i.queue=[],(r=t.createElement(n)).async=!0,r.src="//connect.facebook.net/en_US/fbevents.js",(o=t.getElementsByTagName(n)[0]).parentNode.insertBefore(r,o)),fbq("init","428750600651790"),fbq("track","PageView")}function pixelForTwitter(){var e,t,n,i,r,o;e=window,t=document,n="script",e.twq||((i=e.twq=function(){i.exe?i.exe.apply(i,arguments):i.queue.push(arguments)}).version="1.1",i.queue=[],(r=t.createElement(n)).async=!0,r.src="//static.ads-twitter.com/uwt.js",(o=t.getElementsByTagName(n)[0]).parentNode.insertBefore(r,o)),twq("init","nxo3v"),twq("track","PageView")}function pixelForPinterest(){!function(){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var e=window.pintrk;e.queue=[],e.version="3.0";var t=document.createElement("script");t.async=!0,t.src="https://s.pinimg.com/ct/core.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)}}(),pintrk("load","2618142259440"),pintrk("page"),pintrk("track","pagevisit")}function pixelForReddit(){!function(e,t){if(!e.rdt){var n=e.rdt=function(){n.sendEvent?n.sendEvent.apply(n,arguments):n.callQueue.push(arguments)};n.callQueue=[];var i=t.createElement("script");i.src="https://www.redditstatic.com/ads/pixel.js",i.async=!0;var r=t.getElementsByTagName("script")[0];r.parentNode.insertBefore(i,r)}}(window,document),rdt("init","t2_109a14pl"),rdt("track","PageVisit")}!function(){var e;window.s_topic&&(e=s_topic.match(/^7\d\d\d/gi)),window.s_topic&&!e&&-1===["1634","1663","1664","1669","1695","1700","1703","1705","1707","1709","1711","1719","1756","1760","1761","1762","1783","1814","1818","1819","1835","1840","2730","2756","2857","2950","2952","2953","3079","3236","3539","3540","3541","3552","3571","3607","3608","3623","3631","3637","3644","3838","3927","3928","3930","3937","3939","3950","3951","3954","3958","3962","3963","3965","3966","3971","3989","4010","4048","4049","4050","4052","4058","4099","4119","4121","4140","4203","4222","4227","4228","4236","4242","4251","4254","4257","5555","6041","18091","18092","18093","18094"].indexOf(window.s_topic)&&(pixelForFacebook(),pixelForTwitter(),pixelForPinterest(),pixelForReddit())}()$(function(){var n=function(){var e={};n=function(){},void 0!==window.google_trackConversion&&($.each(webmd.ads2.pageTargets,function(o,n){-1<n.indexOf(",")?e[o]=n.split(","):e[o]=n}),window.google_trackConversion({google_conversion_id:875612316,google_custom_params:e,google_remarketing_only:!0}))};googletag.cmd.push(function(){googletag.pubads().addEventListener("slotRenderEnded",function(o){n()})})})require(["fly_in/2/fly_in"],function(i){i.init("#triggerFlyin")})
+
+ external css
+
+ external js
+
+dtm production footer embed script
+
+if(typeof _satellite != "undefined"){_satellite.pageBottom();}
+
+(function(){
+
+var wot_referrer = "";
+
+var wot_s_Topic = "";
+
+var wot_url = "";
+
+if(typeof document.location != "undefined") {wot_url = document.location;}
+
+if(typeof s_topic != "undefined"){wot_s_Topic = s_topic;}
+
+if(typeof document.referrer != "undefined"){wot_referrer = document.referrer;}
+
+if((webmdDomain != null) && (webmdDomain.toLowerCase().indexOf("fit.")
+< 0) && (webmdDomain.toLowerCase().indexOf(".webmd.boots.com") < 0)
+
+					&& (webmdDomain.toLowerCase().indexOf("member.")
+< 0) && (webmdDomain.toLowerCase().indexOf("labs.")
+< 0) && (wot_origin.toLowerCase().indexOf(".webmd.com/labs/") < 0))
+
+{ var urlstr = "//s.tagsrvcs.com/2/587654/analytics.js?pp="+wot_referrer+"&sn="+wot_s_Topic+"&c1="+wot_url;
+
+document.write("<script src='" + urlstr + "' async='true'><\/script>"); }
+
+})();
+
+
+

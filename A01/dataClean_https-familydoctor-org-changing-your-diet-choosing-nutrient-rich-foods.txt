@@ -1,0 +1,758 @@
+
+
+Español
+
+
+
+Choose a language
+
+Español
+
+English
+
+					//<!
+[CDATA[
+
+					var urls_polylang3 = {"es":"https:\/\/es.familydoctor.org\/modifique-su-dieta-como-elegir-alimentos-ricos-en-nutrientes\/","en":"https:\/\/familydoctor.org\/changing-your-diet-choosing-nutrient-rich-foods\/"};
+
+					document.getElementById( "lang_choice_polylang-3" ).onchange = function() {
+
+						location.href = urls_polylang3[this.value];
+
+					}
+
+					//]]>
+
+				Trusted medical advice from the
+
+American Academy of Family Physicians.
+
+Trusted medical advice from the
+
+American Academy of Family Physicians.
+
+
+
+Twitter Channel
+
+Facebook Profile
+
+Pinterest Profile
+
+Diseases and Conditions
+
+Prevention and Wellness
+
+Staying Healthy
+
+Healthy Living
+
+Travel
+
+Occupational Health
+
+First Aid and Injury Prevention
+
+Crisis Situations
+
+Pets and Animals
+
+myhealthfinder
+
+Food and Nutrition
+
+Healthy Food Choices
+
+Weight Loss and Diet Plans
+
+Nutrients and Nutritional Info
+
+Sugar and Sugar Substitutes
+
+Exercise and Fitness
+
+Exercise Basics
+
+Sports Safety
+
+Injury Rehabilitation
+
+Emotional Well-Being
+
+Mental Health
+
+Sex and Birth Control
+
+Sex and Sexuality
+
+Birth Control
+
+Family Health
+
+Infants and Toddlers
+
+Kids and Teens
+
+Pregnancy and Childbirth
+
+Women
+
+Men
+
+Seniors
+
+Your Health Resources
+
+Healthcare Management
+
+Insurance & Bills
+
+Self Care
+
+Working With Your Doctor
+
+Doctors’ Notes
+
+Drugs, Procedures & Devices
+
+Over-the-counter Products
+
+Procedures & Devices
+
+Prescription Medicines
+
+Health Tools
+
+Dictionary
+
+Symptom Checker
+
+BMI Calculator
+
+myhealthfinder
+
+Neighborhood Navigator
+
+Immunization Schedules
+
+Nutrient Shortfall Questionnaire
+
+Visit The Symptom Checker
+
+Read MoreDepression in Children and TeensRead MoreBMI Calculator
+
+
+
+Healthy Ways to Gain Weight If You’re UnderweightNutrition: Tips for Improving Your HealthNutrition: How to Make Healthier Food ChoicesNutrition for Weight Loss: What You Need to Know About Fad DietsNutrition: Keeping a Food DiaryOvereating in Children and TeensDietary Fats: What’s Good and What’s BadChildhood Overweight and Obesity: Helping Your Child Achieve a Healthy Weight
+
+Home
+
+
+
+Prevention and Wellness
+
+
+
+Food and Nutrition
+
+
+
+Healthy Food Choices
+
+
+
+Changing Your Diet: Choosing Nutrient-rich Foods
+
+Changing Your Diet: Choosing Nutrient-rich Foods
+
+Share
+
+
+
+Print
+
+Advertisement
+
+You should choose a diet made of nutrient-rich foods.
+Nutrient-rich (or nutrient-dense) foods are low in sugar, sodium, starches, and bad fats.
+They contain a lot of vitamins and minerals and few calories.
+Your body needs vitamins and minerals, known as micronutrients.
+They nourish your body and help keep you healthy.
+They can reduce your risk for chronic diseases.
+Getting them through food ensures your body can absorb them properly.
+
+Try to eat a variety of foods to get different vitamins and minerals.
+Foods that naturally are nutrient-rich include fruits and vegetables.
+Lean meats, fish, whole grains, dairy, legumes, nuts, and seeds also are high in nutrients.
+
+Path to improved health
+
+You may not get all the micronutrients your body needs.
+Americans tend to eat foods that are high in calories and low in micronutrients.
+These foods often also contain added sugar, sodium (salt), and saturated or trans fats.
+This type of diet contributes to weight gain.
+It can increase your risk of health issues, such as type 2 diabetes and heart disease.
+
+According to the U.S. Department of Agriculture (USDA), American adults may not get enough of the following micronutrients.
+
+Nutrient
+
+Food sources
+
+Calcium
+
+Nonfat and low-fat dairy, dairy substitutes, broccoli, dark, leafy greens, and sardines
+
+Potassium
+
+Bananas, cantaloupe, raisins, nuts, fish, and spinach and other dark greens
+
+Fiber
+
+Legumes (dried beans and peas), whole-grain foods and brans, seeds, apples, strawberries, carrots, raspberries, and colorful fruit and vegetables
+
+Magnesium
+
+Spinach, black beans, peas, and almonds
+
+Vitamin A
+
+Eggs, milk, carrots, sweet potatoes, and cantaloupe
+
+Vitamin C
+
+Oranges, strawberries, tomatoes, kiwi, broccoli, and red and green bell peppers
+
+Vitamin E
+
+Avocados, nuts, seeds, whole-grain foods, and spinach and other dark leafy greens
+
+All of the above foods are good choices.
+Below are suggestions for changing your diet to be more nutrient-rich.
+
+Grains
+
+Whole-grain foods are low in fat.
+They’re also high in fiber and complex carbohydrates.
+This helps you feel full longer and prevents overeating.
+Check the ingredient list for the word “whole.” For example, “whole wheat flour” or “whole oat flour.” Look for products that have at least 3 grams of fiber per serving.
+Some enriched flours have fiber, but are not nutrient-rich.
+
+Choose these foods:
+
+Rolled or steel cut oats.
+
+Whole-wheat pasta.
+
+Whole-wheat tortillas.
+
+Whole-grain (wheat or rye) crackers, breads, and rolls.
+
+Brown or wild rice.
+
+Barley, quinoa, buckwheat, whole corn, and cracked wheat.
+
+Fruits and vegetables
+
+Fruits and vegetables naturally are low in fat.
+They add nutrients, flavor, and variety to your diet.
+Look for colorful fruits and vegetables, especially orange and dark green.
+
+Choose these foods:
+
+Broccoli, cauliflower, and Brussels sprouts.
+
+Leafy greens, such as chard, cabbage, romaine, and bok choy.
+
+Dark, leafy greens, such as spinach and kale.
+
+Squash, carrots, sweet potatoes, turnips, and pumpkin.
+
+Snap peas, green beans, bell peppers, and asparagus.
+
+Apples, plums, mangos, papaya, pineapple, and bananas.
+
+Blueberries, strawberries, cherries, pomegranates, and grapes.
+
+Citrus fruits, such as grapefruits and oranges.
+
+Peaches, pears, and melons.
+
+Tomatoes and avocados.
+
+Meat, poultry, fish, and beans
+
+Beef, pork, veal, and lamb
+
+Choose low-fat, lean cuts of meat.
+Look for the words “round,” “loin,” or “leg” in their names.
+Trim outside fat before cooking.
+Trim any inside, separable fat before eating.
+Baking, broiling, and roasting are the healthiest ways to prepare these meats.
+Limit how often you eat beef, pork, veal, and lamb.
+Even lean cuts contain more fat and cholesterol compared to other protein sources.
+
+Poultry
+
+Chicken breasts are a good cut of poultry.
+They are low in fat and high in protein.
+Remove skin and outside fat before cooking.
+Baking, broiling, grilling, and roasting are the healthiest ways to prepare poultry.
+
+Fish
+
+Fresh fish and shellfish should be damp and clear in color.
+They should smell clean and have a firm, springy flesh.
+If fresh fish isn’t available, choose frozen or low-salt canned fish.
+Wild-caught oily fish are the best sources of omega-3 fatty acids.
+This includes salmon, tuna, mackerel, and sardines.
+Poaching, steaming, baking, and broiling are the healthiest ways to prepare fish.
+
+Beans and other non-meat sources
+
+Non-meat sources of protein also can be nutrient-rich.
+Try a serving of beans, peanut butter, other nuts, or seeds.
+
+Choose these foods:
+
+Lean cuts of beef, pork, veal, and lamb.
+
+Turkey bacon.
+
+Ground chicken or turkey.
+
+Wild-caught salmon and other oily fish.
+
+Haddock and other white fish.
+
+Wild-caught tuna (canned or fresh).
+
+Shrimp, mussels, scallops, and lobster (without added fat).
+
+Legumes, such as beans, lentils, and chickpeas.
+
+Seeds and nuts, including nut butters.
+
+Dairy and dairy substitutes
+
+Choose skim milk, low-fat milk, or enriched milk substitutes.
+Try replacing cream with evaporated skim milk in recipes and coffee.
+Choose low-fat or fat-free cheeses.
+
+Choose these foods:
+
+Low-fat, skim, nut, or enriched milk, like soy or rice.
+
+Skim ricotta cheese in place of cream cheese.
+
+Low-fat cottage cheese.
+
+String cheese.
+
+Plain nonfat yogurt in place of sour cream.
+
+Things to consider
+
+Most nutrient-rich foods are found in the perimeter (outer circle) of the grocery store.
+The amount of nutrient-rich foods you should eat depends on your daily calorie needs.
+USDA’s website ChooseMyPlate.gov offers nutrition information for adults and children.
+
+Questions to ask your doctor
+
+How can I easily add these foods to my everyday diet?
+
+How can I be sure I’m eating enough nutrient-rich foods if I’m on a strict diet, like vegetarian or vegan?
+
+Can I take supplements or multivitamins to increase my nutrients?
+
+Resources
+
+Academy of Nutrition and Dietetics: Eat Right, Tips for Choosing a Nutrient-rich Diet
+
+U.S. Department of Agriculture, ChooseMyPlate.gov: Start Simple With MyPlate
+
+
+
+Last Updated:
+
+November 6, 2019
+
+This article was contributed by familydoctor.org editorial staff.
+
+Categories:
+
+Food and Nutrition,
+
+Healthy Food Choices,
+
+Prevention and WellnessTags:
+
+prevention
+
+May 1, 2010
+
+Copyright © American Academy of Family Physicians
+
+This information provides a general overview and may not apply to everyone.
+Talk to your family doctor to find out if this information applies to you and to get more information on this subject.
+
+Advertisement
+
+(function() {var a="",b=["aid=110156"];for (var c=0;c<b.length;++c){a+=b[c]+"&";}a+="r="+Math.random()*1e16+"&url="+encodeURIComponent(window.location.href);var x="https://content.tapnative.com/tn/?
+"+a;var y=document.createElement("script");y.type="text/javascript";y.async=true;y.src=x;var z=document.getElementsByTagName("script")[0];z.parentNode.insertBefore(y, z);})();
+
+Visit our interactive symptom checker
+
+Visit our interactive symptom checker
+
+Get Started
+
+Advertisement
+
+(function() {var a="",b=["aid=110080"];for (var c=0;c<b.length;++c){a+=b[c]+"&";}a+="r="+Math.random()*1e16+"&url="+encodeURIComponent(window.location.href);var x="https://content.tapnative.com/tn/?
+"+a;var y=document.createElement("script");y.type="text/javascript";y.async=true;y.src=x;var z=document.getElementsByTagName("script")[0];z.parentNode.insertBefore(y, z);})();
+
+Related ArticlesDiet and Exercise for a Healthy HeartRead Article >>Exercise and FitnessDiet and Exercise for a Healthy HeartTwo of the simplest yet most important ways to have a healthy heart are through diet and exercise.Dietary Fats: What’s Good and What’s BadRead Article >>Healthy Food ChoicesDietary Fats: What’s Good and What’s BadThere are different types of good and bad fats.
+Learn about the benefits and risks of fats, as well…Health Guides: Health is a State of Mind and BodyRead Article >>Healthy LivingHealth Guides: Health is a State of Mind and BodyTake care of your mind and body with healthy choices for diet, exercise, and a positive outlook.
+It can…
+
+About
+
+Support Us
+
+Copyright & Permissions
+
+Privacy Policy
+
+Contact
+
+
+
+
+
+familydoctor.org is powered by
+
+
+
+© 2020 American Academy of Family Physicians
+
+submit site search
+
+Diseases and Conditions
+
+Prevention and Wellness
+
+Staying Healthy
+
+Healthy Living
+
+Travel
+
+Occupational Health
+
+First Aid and Injury Prevention
+
+Crisis Situations
+
+Pets and Animals
+
+myhealthfinder
+
+Food and Nutrition
+
+Healthy Food Choices
+
+Weight Loss and Diet Plans
+
+Nutrients and Nutritional Info
+
+Sugar and Sugar Substitutes
+
+Exercise and Fitness
+
+Exercise Basics
+
+Sports Safety
+
+Injury Rehabilitation
+
+Emotional Well-Being
+
+Mental Health
+
+Sex and Birth Control
+
+Sex and Sexuality
+
+Birth Control
+
+Family Health
+
+Infants and Toddlers
+
+Kids and Teens
+
+Pregnancy and Childbirth
+
+Women
+
+Men
+
+Seniors
+
+Your Health Resources
+
+Healthcare Management
+
+Insurance & Bills
+
+Self Care
+
+Working With Your Doctor
+
+Doctors’ Notes
+
+Drugs, Procedures & Devices
+
+Over-the-counter Products
+
+Procedures & Devices
+
+Prescription Medicines
+
+Health Tools
+
+Dictionary
+
+Symptom Checker
+
+BMI Calculator
+
+myhealthfinder
+
+Neighborhood Navigator
+
+Immunization Schedules
+
+Nutrient Shortfall Questionnaire
+
+Diseases and Conditions
+
+Prevention and Wellness
+
+Staying Healthy
+
+Healthy Living
+
+Travel
+
+Occupational Health
+
+First Aid and Injury Prevention
+
+Crisis Situations
+
+Pets and Animals
+
+myhealthfinder
+
+Food and Nutrition
+
+Healthy Food Choices
+
+Weight Loss and Diet Plans
+
+Nutrients and Nutritional Info
+
+Sugar and Sugar Substitutes
+
+Exercise and Fitness
+
+Exercise Basics
+
+Sports Safety
+
+Injury Rehabilitation
+
+Emotional Well-Being
+
+Mental Health
+
+Sex and Birth Control
+
+Sex and Sexuality
+
+Birth Control
+
+Family Health
+
+Infants and Toddlers
+
+Kids and Teens
+
+Pregnancy and Childbirth
+
+Women
+
+Men
+
+Seniors
+
+Your Health Resources
+
+Healthcare Management
+
+Insurance & Bills
+
+Self Care
+
+Working With Your Doctor
+
+Doctors’ Notes
+
+Drugs, Procedures & Devices
+
+Over-the-counter Products
+
+Procedures & Devices
+
+Prescription Medicines
+
+Health Tools
+
+Dictionary
+
+Symptom Checker
+
+BMI Calculator
+
+myhealthfinder
+
+Neighborhood Navigator
+
+Immunization Schedules
+
+Nutrient Shortfall Questionnaire
+
+
+
+
+
+Visit our interactive symptom checker
+
+
+
+Visit our interactive symptom checker
+
+Get Started
+
+
+
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '297209990620305'); // Insert your pixel ID here.
+
+fbq('track', 'PageView');
+
+  !function(f,b,e,v,n,t,s)
+
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+  n.queue=[];t=b.createElement(e);t.async=!0;
+
+  t.src=v;s=b.getElementsByTagName(e)[0];
+
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+  'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '568027847384514');
+
+  fbq('track', 'PageView');
+
+				var _paq = _paq || [];
+
+					_paq.push(['setCustomDimension', 1, '{"ID":,"name":"","avatar":"d41d8cd98f00b204e9800998ecf8427e"}']);
+
+				_paq.push(['trackPageView']);
+
+								(function () {
+
+					var u = "https://stats1.wpmudev.com/";
+
+					_paq.push(['setTrackerUrl', u + 'track/']);
+
+					_paq.push(['setSiteId', '7708']);
+
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+
+					g.type  = 'text/javascript';
+
+					g.async = true;
+
+					g.defer = true;
+
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+
+					s.parentNode.insertBefore(g, s);
+
+				})();
+
+
+
+          var pfHeaderImgUrl = 'https://familydoctor.org/wp-content/uploads/2016/11/logo@2x.png';
+
+          var pfHeaderTagline = '';
+
+          var pfdisableClickToDel = '0';
+
+          var pfImagesSize = 'full-size';
+
+          var pfImageDisplayStyle = 'block';
+
+          var pfEncodeImages = '0';
+
+          var pfDisableEmail = '0';
+
+          var pfDisablePDF = '0';
+
+          var pfDisablePrint = '0';
+
+          var pfCustomCSS = 'https://familydoctor.org/wp-content/themes/familydoctor-child/css/style-print.min.css';
+
+          var pfPlatform = 'Wordpress';
+
+
+
+  (function(d) {
+
+    var config = {
+
+      kitId: 'lor8bej',
+
+      scriptTimeout: 3000,
+
+      async: true
+
+    },
+
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+
+  })(document);
+
+
+

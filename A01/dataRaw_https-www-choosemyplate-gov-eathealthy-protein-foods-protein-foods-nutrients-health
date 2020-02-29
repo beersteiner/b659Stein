@@ -1,0 +1,1274 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8794026-18"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());/*<![CDATA[*/
+(function() {
+  var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+  sz.src = '//siteimproveanalytics.com/js/siteanalyze_10611.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/gtag("config", "UA-8794026-18", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-27379012-33');</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health" />
+<link rel="canonical" href="https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health" />
+<link rel="shortlink" href="https://www.choosemyplate.gov/node/5521" />
+<link rel="revision" href="https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health" />
+
+    <title>Nutrients and health benefits | ChooseMyPlate</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_klwr-y4QuvlWx7g4xHLKCSTwuVu2I30FC1nAnvmnlvk.css?q63s6o" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_ZHXGry7r2n00NmLJPEV-P4OY9jS3bz_ou3tg1MH_yKQ.css?q63s6o" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"127601",ustr:"",originlat:"0",clientrtt:"17",ghostip:"104.102.248.181",ipv6:false,pct:"10",clientip:"173.243.179.122",requestid:"8085b5aa",region:"35154",protocol:"",blver:14,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"8085b5aa",ai:"77711",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
+  <body class="path-node page-node-type-page context-eathealthy-protein-foods-protein-foods-nutrients-health">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div><div role="contentinfo" aria-label="Warning message">
+
+    <div class="usa-alert usa-alert-slim usa-alert-warning">
+  
+    <div class="usa-alert-body">
+
+            <p class="usa-alert-text">
+        Welcome to the new ChooseMyPlate website! Please pardon our dust during this transition. We appreciate your patience.
+      </p>
+      
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+
+<div class="usa-grid">
+  <div class="usa-width-full">
+    </div>
+</div>
+
+<header class="usa-header usa-header-extended" id="header" role="banner">
+    <section class="usa-banner">
+    <div class="usa-accordion">
+  <header class="usa-banner-header">
+    <div class="usa-grid usa-banner-inner">
+    <img src="/themes/custom/usda_myplatekitchen_theme/assets/img/favicons/favicon-57.png" alt="U.S. flag">
+    <p>An official website of the United States government</p>
+    <button class="usa-accordion-button usa-banner-button"
+      aria-expanded="false" aria-controls="gov-banner">
+      <span class="usa-banner-button-text">Here's how you know</span>
+    </button>
+    </div>
+  </header>
+  <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
+    <div class="usa-banner-guidance-gov usa-width-one-half">
+      <img class="usa-banner-icon usa-media_block-img" src="/themes/custom/usda_myplatekitchen_theme/assets/img/icon-dot-gov.svg" alt="Dot gov">
+      <div class="usa-media_block-body">
+        <p>
+          <strong>The .gov means it’s official.</strong>
+          <br>
+          Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or “location”) bar.
+        </p>
+      </div>
+    </div>
+    <div class="usa-banner-guidance-ssl usa-width-one-half">
+      <img class="usa-banner-icon usa-media_block-img" src="/themes/custom/usda_myplatekitchen_theme/assets/img/icon-https.svg" alt="SSL">
+      <div class="usa-media_block-body">
+        <p>This site is also protected by an SSL (Secure Sockets Layer) certificate that’s been signed by the U.S. government. The <strong>https://</strong> means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </section>
+  
+  
+  <div class="usa-navbar">
+    <button class="usa-menu-btn">Menu</button>
+    <div id="myplate-updates" class="card">
+      <a href="/saml/login">Log in | Register</a>
+    </div>
+
+    <div class="usa-logo">
+      <a class="usda-logo-text" href="/" title="Home" aria-label=ChooseMyPlate rel="home" id="anch_2">
+        <span title="Home" rel="home" class="usda-logo">
+          <img src="/themes/custom/usda_myplatekitchen_theme/assets/img/usda-symbol.svg" alt="USDA OHA Logo" class="usda-logo-img">
+        </span> ChooseMyPlate
+        <div class="tagline">U.S. Department of Agriculture</div>
+      </a>
+    </div>
+  </div>
+
+  <div class="usa-overlay"></div>
+  <div class="usa-nav" role="navigation">
+    <div class="usa-nav-inner">
+
+      <button class="usa-nav-close">
+        <img src="/themes/custom/usda_myplatekitchen_theme/assets/img/close.png" alt="close" />
+      </button>
+
+      <div id="myplate-updates-mobile" class="card signin-mobile">
+        <a href="/saml/login">Log in | Register</a>
+      </div>
+
+      
+      
+            
+  <div class="region region-primary-menu">
+    <div id="block-cmpbrandingicon-2" class="block block-block-content block-block-content17793d61-6a07-48a9-bbaa-29d6aeb60053">
+  
+    
+      
+            <img alt="ChooseMyPlate" data-entity-type="file" data-entity-uuid="4aa6e120-def6-48a3-b3bc-97328b8e39d8" src="/sites/default/files/inline-images/CMP-brandingicon.png" />
+      
+  </div>
+
+
+
+  
+  
+          <ul class="usa-nav-primary usa-accordion" role="navigation">
+    
+          <li>
+
+        
+                  <a href="/" class="usa-nav-link" >
+            <span>Home</span>
+          </a>
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2">
+            <span>Eat Healthy</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-2" class="usa-nav-submenu">
+
+            <li class="usa-nav-overview">
+        <a href="/eathealthy/WhatIsMyPlate">
+          <span>Eat Healthy</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/eathealthy/start-simple-myplate">
+            <span>Start Simple with MyPlate</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/WhatIsMyPlate">
+            <span>What is MyPlate?</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/myplate-mystate">
+            <span>MyPlate, MyState</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/fruits">
+            <span>Fruits</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/vegetables">
+            <span>Vegetables</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/grains">
+            <span>Grains</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/protein-foods">
+            <span>Protein Foods</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/dairy">
+            <span>Dairy</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/oils">
+            <span>Oils</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/budget">
+            <span>Healthy Eating On A Budget</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/myplate-mywins">
+            <span>MyPlate, MyWins</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/recipes-cookbooks-and-menus">
+            <span>Recipes &amp; Menus</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/dietary-guidelines">
+            <span>Dietary Guidelines</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/eathealthy/brief-history-usda-food-guides">
+            <span>Food Guide History</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3">
+            <span>Browse by Audience</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-3" class="usa-nav-submenu">
+
+            <li class="usa-nav-overview">
+        <a href="/browse-by-audience/view-all-audiences">
+          <span>Browse by Audience</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/browse-by-audience/view-all-audiences">
+            <span>View All Audiences</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/browse-by-audience/view-all-audiences/children">
+            <span>Children</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/browse-by-audience/view-all-audiences/students">
+            <span>Students</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/browse-by-audience/view-all-audiences/adults">
+            <span>Adults</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/browse-by-audience/view-all-audiences/families">
+            <span>Families</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/browse-by-audience/view-all-audiences/professionals">
+            <span>Professionals</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/browse-by-audience/view-all-audiences/multiple-languages">
+            <span>Multiple Languages</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4">
+            <span>Resources</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-4" class="usa-nav-submenu">
+
+            <li class="usa-nav-overview">
+        <a href="/resources/all-resources">
+          <span>Resources</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/resources/all-resources">
+            <span>All Resources</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/MyPlatePlan">
+            <span>MyPlate Plan</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/toolkits">
+            <span>Toolkits</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/myplate-tip-sheets">
+            <span>Print Materials</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/seasonal">
+            <span>Seasonal</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/quiz">
+            <span>Quizzes</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/infographics">
+            <span>Infographics</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/myplate-graphic-resources">
+            <span>MyPlate Graphics</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/videos">
+            <span>Videos</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/lets-talk-trash">
+            <span>Food Waste</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/food-safety">
+            <span>Food Safety</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/physical-activity">
+            <span>Physical Activity</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5">
+            <span>MyPlate Kitchen</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-5" class="usa-nav-submenu">
+
+            <li class="usa-nav-overview">
+        <a href="/myplatekitchen">
+          <span>MyPlate Kitchen</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/myplatekitchen/recipes">
+            <span>Recipes</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/myplatekitchen/build-cookbook">
+            <span>Cookbooks</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="https://www.youtube.com/playlist?list=PLBccton6gOdrIKFFh-M9mf8VkPEV2ZVr_">
+            <span>Recipe Videos</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/myplatekitchen/resources">
+            <span>Recipe Resources</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+        </ul>
+  
+
+
+<div class="views-exposed-form bef-exposed-form usa-form-large block block-views block-views-exposed-filter-blocksearch-from-menu-page" data-drupal-selector="views-exposed-form-search-from-menu-page" data-msg-required="This field is required." id="block-exposedformsearch-from-menupage">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-search-from-menu-page" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-item-keyword js-form-item-keyword form-no-label">
+          <input data-drupal-selector="edit-keyword" data-msg-maxlength="This field field has a maximum length of 128." data-msg-required="This field is required." type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128" class="form-text" />
+
+      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" data-msg-required="This field is required." id="edit-actions"><input data-drupal-selector="edit-submit-search-from-menu" data-msg-required="This field is required." type="submit" id="edit-submit-search-from-menu" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+      
+            
+  <div class="region region-secondary-menu">
+    <div class="usa-nav-secondary">
+
+  
+    <ul class="usa-unstyled-list usa-nav-secondary-links">
+
+  
+      <li>
+      <a href="/about-us">
+        About US
+      </a>
+    </li>
+      <li>
+      <a href="https://www.fns.usda.gov/ask-expert">
+        Ask the Expert
+      </a>
+    </li>
+      <li>
+      <a href="/contact-us">
+        Contact Us
+      </a>
+    </li>
+      <li>
+      <a href="https://www.fns.usda.gov/">
+        FNS
+      </a>
+    </li>
+      <li>
+      <a href="https://usda.gov">
+        USDA.GOV
+      </a>
+    </li>
+  
+  </ul>
+  
+</div>
+
+
+  </div>
+
+      
+          </div>
+  </div>
+
+        <section class="hero">
+    <div class="hero-image" style="background-image: url(/sites/default/files/styles/internal_hero/public/basic-page/Protein_Foods_LandingPage.jpg?itok=ygAwol89); background-size: cover;"><div class="usa-grid"><h1>Nutrients and health benefits</h1></div></div>
+
+  </section>
+  </header>
+
+<section class="usa-section uswds-middle-section ">
+
+  <nav aria-labelledby="system-breadcrumb" class="usa-nav-breadcrumb">
+    
+  <div class="region region-breadcrumb">
+    <div id="block-sharethiswidget">
+  <div id="block-sharethis-widget">
+    <div class="share-wrap">
+      <a href="#" id="share-button">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36.72 32.225" width="25px" height="25px">
+          <defs>
+            <clipPath id="clip-path">
+              <rect id="Rectangle_774" data-name="Rectangle 774" class="cls-share1" width="36.22" height="31.743"/>
+            </clipPath>
+          </defs>
+          <g id="Symbol_4_1" data-name="Symbol 4 – 1" transform="translate(-1440.5 -391.266)">
+            <g id="Group_44" data-name="Group 44" class="cls-share2" transform="translate(1441 391.266)">
+              <g id="Group_43" data-name="Group 43">
+                <g id="Group_42" data-name="Group 42" class="cls-share3">
+                  <path id="Path_312" data-name="Path 312" class="cls-share1" d="M199.626,1.167a.8.8,0,0,0-1.361.565V5.989c-4.309.172-6.467,1.957-6.8,2.255a12.1,12.1,0,0,0-4.2,7.031,12.377,12.377,0,0,0-.142,4.051v0c0,.012,0,.024.006.036l.17.975a.8.8,0,0,0,1.47.273l.508-.847a11.208,11.208,0,0,1,5.782-5.113,8.384,8.384,0,0,1,3.2-.469v4.409a.8.8,0,0,0,1.363.562l8.431-8.474a.8.8,0,0,0,0-1.128Zm.235,15.494V13.468a.8.8,0,0,0-.671-.788,9.763,9.763,0,0,0-4.654.469,12.19,12.19,0,0,0-5.916,4.711,11.382,11.382,0,0,1,.216-2.276,10.376,10.376,0,0,1,3.66-6.12c.018-.014.034-.029.05-.044.056-.052,2.082-1.881,6.511-1.848h.006a.8.8,0,0,0,.8-.8V3.652l6.505,6.473Zm0,0" transform="translate(-172.071 -0.86)"/>
+                </g>
+              </g>
+              <path id="Path_313" data-name="Path 313" class="cls-share1" d="M33.3,78.107a.8.8,0,0,0-.8.8v3.372a2.4,2.4,0,0,1-2.393,2.393H3.989A2.4,2.4,0,0,1,1.6,82.276V63.269a2.4,2.4,0,0,1,2.393-2.393H9.507a.8.8,0,0,0,0-1.6H3.989A3.993,3.993,0,0,0,0,63.269V82.276a3.994,3.994,0,0,0,3.989,3.989H30.105a3.994,3.994,0,0,0,3.989-3.989V78.9a.8.8,0,0,0-.8-.8Zm0,0" transform="translate(0 -54.54)"/>
+            </g>
+          </g>
+        </svg>
+      </a>
+      
+            
+              <div class="sharethis-wrapper"><span st_url="https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health" st_title="Nutrients and health benefits" class="st_facebook_vcount" displayText="facebook"></span>
+<span st_url="https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health" st_title="Nutrients and health benefits" class="st_twitter_vcount" st_via="MyPlate #WhatsCooking" st_username="" displayText="twitter"></span>
+<span st_url="https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health" st_title="Nutrients and health benefits" class="st_pinterest_vcount" displayText="pinterest"></span>
+<span st_url="https://www.choosemyplate.gov/eathealthy/protein-foods/protein-foods-nutrients-health" st_title="Nutrients and health benefits" class="st_email_vcount" displayText="email"></span>
+</div>
+          </div>
+    <a href="javascript:window.print()" id="print-button">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.536 36.724" height="25px" width="25px">
+        <g id="Symbol_5_1" data-name="Symbol 5 – 1" transform="translate(-1509.306 -390.5)">
+          <g id="Group_45" data-name="Group 45" class="cls-print1" transform="translate(1509.806 391)">
+            <path id="Path_314" data-name="Path 314" class="cls-print2" d="M34.536,25V11.825a3.009,3.009,0,0,0-3-3H27.916V1.932A1.935,1.935,0,0,0,25.984,0H8.552A1.935,1.935,0,0,0,6.62,1.932v6.89H3a3.009,3.009,0,0,0-3,3V25a3.009,3.009,0,0,0,3,3H6.62v5.789a1.935,1.935,0,0,0,1.932,1.932H25.984a1.935,1.935,0,0,0,1.932-1.932V28h3.616a3,3,0,0,0,3-3ZM8.063,1.932a.489.489,0,0,1,.488-.488H25.984a.489.489,0,0,1,.488.488v6.89H8.063V1.932ZM26.48,33.792a.489.489,0,0,1-.488.488H8.552a.489.489,0,0,1-.488-.488V19.138H26.472V33.792ZM33.092,25a1.562,1.562,0,0,1-1.56,1.56H27.916V18.416a.719.719,0,0,0-.722-.722H7.342a.719.719,0,0,0-.722.722V26.56H3A1.562,1.562,0,0,1,1.444,25V11.825A1.562,1.562,0,0,1,3,10.265H31.532a1.562,1.562,0,0,1,1.56,1.56Zm0,0" transform="translate(0)"/>
+            <path id="Path_315" data-name="Path 315" class="cls-print2" d="M49.122,145.28a.722.722,0,1,0,.51,1.232.735.735,0,0,0,.211-.51.749.749,0,0,0-.211-.51.735.735,0,0,0-.51-.211Zm0,0" transform="translate(-43.989 -132.04)"/>
+            <path id="Path_316" data-name="Path 316" class="cls-print2" d="M126.242,286.564h10.229a.722.722,0,1,0,0-1.444H126.242a.722.722,0,1,0,0,1.444Zm0,0" transform="translate(-114.081 -259.136)"/>
+            <path id="Path_317" data-name="Path 317" class="cls-print2" d="M126.242,331.444h10.229a.722.722,0,1,0,0-1.444H126.242a.722.722,0,1,0,0,1.444Zm0,0" transform="translate(-114.081 -299.926)"/>
+            <path id="Path_318" data-name="Path 318" class="cls-print2" d="M126.242,241.684h10.229a.722.722,0,0,0,0-1.444H126.242a.722.722,0,1,0,0,1.444Zm0,0" transform="translate(-114.081 -218.346)"/>
+          </g>
+        </g>
+      </svg>
+    </a>
+  </div>
+</div>
+<div id="block-usda-myplatekitchen-theme-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+<ol class="usda-breadcrumb-list">
+  <li class="usda-breadcrumb-item">
+          <a href="/">Home</a>
+      </li>
+  <li class="usda-breadcrumb-item">
+          <a href="/eathealthy">Eathealthy</a>
+      </li>
+  <li class="usda-breadcrumb-item">
+          <a href="/eathealthy/protein-foods">Protein foods</a>
+      </li>
+  <li class="usda-breadcrumb-item">
+          Protein foods nutrients health
+      </li>
+</ol>
+
+  </div>
+
+  </div>
+
+  </nav>
+
+  <div id="main-content" class="usa-layout-doc uswds-main-content-wrapper">
+
+            <aside class="region-sidebar-first usa-width-one-fourth">
+      
+  <div class="region region-sidebar-first">
+    
+
+  
+  
+          <ul class="usa-sidenav-list">
+    
+          <li>
+        <a href="/">
+          <span>Home</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/WhatIsMyPlate" class="usa-current">
+          <span>Eat Healthy</span>
+        </a>
+
+                    
+  
+          <ul class="usa-sidenav-sub_list">
+    
+          <li>
+        <a href="/eathealthy/start-simple-myplate">
+          <span>Start Simple with MyPlate</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/WhatIsMyPlate">
+          <span>What is MyPlate?</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/myplate-mystate">
+          <span>MyPlate, MyState</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/fruits">
+          <span>Fruits</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/vegetables">
+          <span>Vegetables</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/grains">
+          <span>Grains</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/protein-foods" class="usa-current">
+          <span>Protein Foods</span>
+        </a>
+
+                    
+  
+          <ul class="usa-sidenav-sub_list">
+    
+          <li>
+        <a href="/eathealthy/protein-foods">
+          <span>All About the Protein Foods Group</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/protein-foods/protein-foods-nutrients-health" class="usa-current">
+          <span>Nutrients and Health Benefits</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/protein-foods/protein-foods-vegetarian">
+          <span>Vegetarian Choices</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/protein-foods/protein-foods-tips">
+          <span>TIPS: Vary Your Protein Routine</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/protein-foods/protein-foods-group-food-gallery">
+          <span>Food Gallery</span>
+        </a>
+
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+        <a href="/eathealthy/dairy">
+          <span>Dairy</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/oils">
+          <span>Oils</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/budget">
+          <span>Healthy Eating On A Budget</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/myplate-mywins">
+          <span>MyPlate, MyWins</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/recipes-cookbooks-and-menus">
+          <span>Recipes &amp; Menus</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/dietary-guidelines">
+          <span>Dietary Guidelines</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/eathealthy/brief-history-usda-food-guides">
+          <span>Food Guide History</span>
+        </a>
+
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+        <a href="/browse-by-audience/view-all-audiences">
+          <span>Browse by Audience</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/resources/all-resources">
+          <span>Resources</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/myplatekitchen">
+          <span>MyPlate Kitchen</span>
+        </a>
+
+        
+      </li>
+        </ul>
+  
+
+
+
+  </div>
+
+    </aside>
+    
+    
+    <div class="region-content usa-width-three-fourths">
+      
+  <div class="region region-content">
+    <div id="block-usda-myplatekitchen-theme-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="uswds-page-title page-title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Nutrients and health benefits</span>
+</h1>
+
+
+  </div>
+<div id="block-usda-myplatekitchen-theme-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="5521" role="article" about="/eathealthy/protein-foods/protein-foods-nutrients-health" typeof="schema:WebPage" class="node node--type-page node--promoted node--view-mode-full">
+
+  
+      <span property="schema:name" content="Nutrients and health benefits" class="rdf-meta hidden"></span>
+
+
+  
+  <div class="node__content">
+    
+            <h2>Why is it important to make lean or low-fat choices from the Protein Foods Group?</h2>
+
+<div> </div>
+
+<div>Foods in the meat, poultry, fish, eggs, nuts, and seed group provide nutrients that are vital for health and maintenance of your body. However, choosing foods from this group that are high in saturated fat and cholesterol may have health implications.</div>
+
+<div> </div>
+
+<div>The chart below lists specific amounts that count as 1 ounce equivalent in the Protein Foods Group towards your daily recommended intake:</div>
+
+<div> </div>
+
+<div>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 100%;"><thead><tr><th scope="col">
+			<p> </p>
+			</th>
+			<th scope="col">
+			<p>Amount that counts as 1 ounce equivalent in the Protein Foods Group</p>
+			</th>
+			<th scope="col">
+			<p>Common portions and ounce equivalents</p>
+			</th>
+		</tr></thead><tbody><tr><td>
+			<p><strong>Meats</strong></p>
+			</td>
+			<td>
+			<p>1 ounce cooked lean beef</p>
+
+			<p>1 ounce cooked lean pork or ham</p>
+			</td>
+			<td>
+			<p>1 small steak (eye of round, filet) = 3/12 to 4 ounce equivalents</p>
+
+			<p>1 small lean hamburger = 2 to 3 ounce equivalents</p>
+			</td>
+		</tr><tr><td>
+			<p><strong>Poultry</strong></p>
+			</td>
+			<td>
+			<p>1 ounce cooked chicken or turkey, without skin</p>
+
+			<p>1 sandwich slice of turkey (4 1/2 x 2 1/2 x 1/8")</p>
+			</td>
+			<td>
+			<p>1 small chicken breast half = 3 ounce equivalents</p>
+
+			<p>1/2 Cornish game hen = 4 ounce equivalents</p>
+			</td>
+		</tr><tr><td>
+			<p><strong>Seafood</strong></p>
+			</td>
+			<td>
+			<p>1 ounce cooked fish or shell fish</p>
+			</td>
+			<td>
+			<p>1 can of tuna, drained = 3 to 4 ounce equivalents<br />
+			1 salmon steak = 4 to 6 ounce equivalents<br />
+			1 small trout = 3 ounce equivalents</p>
+			</td>
+		</tr><tr><td>
+			<p><strong>Eggs</strong></p>
+			</td>
+			<td>
+			<p>1 egg</p>
+			</td>
+			<td>
+			<p>3 egg whites = 2 ounce equivalents<br />
+			3 egg yolks = 1 ounce equivalent</p>
+			</td>
+		</tr><tr><td style="vertical-align: top;">
+			<p><strong>Nuts and seeds</strong></p>
+			</td>
+			<td>
+			<p>1/2 ounce of nuts (12 almonds, 24 pistachios, 7 walnut halves)<br />
+			1/2 ounce of seeds (pumpkin, sunflower, or squash seeds, hulled, roasted)<br />
+			1 Tablespoon of peanut butter or almond butter</p>
+			</td>
+			<td>
+			<p>1 ounce of nuts of seeds = 2 ounce equivalents</p>
+			</td>
+		</tr><tr><td style="vertical-align: top;">
+			<p><strong>Beans and peas</strong></p>
+			</td>
+			<td>
+			<p>1/4 cup of cooked beans (such as black, kidney, pinto, or white beans)<br />
+			1/4 cup of cooked peas (such as chickpeas, cowpeas, lentils, or split peas)<br />
+			1/4 cup of baked beans, refried beans</p>
+
+			<p>1/4 cup (about 2 ounces) of tofu<br />
+			1 oz tempeh, cooked<br />
+			1/4 cup roasted soybeans 1 falafel patty (2 1/4", 4 oz)<br />
+			2 Tablespoons hummus</p>
+			</td>
+			<td>
+			<p><br />
+			1 cup split pea soup = 2 ounce equivalents<br />
+			1 cup lentil soup = 2 ounce equivalents<br />
+			1 cup bean soup = 2 ounce equivalents<br /><br /><br />
+			1 soy or bean burger patty = 2 ounce equivalents<br />
+			 </p>
+			</td>
+		</tr></tbody></table></div>
+
+<h3><br />
+Nutrients<img alt="Meat, spinach, and beans image" class="media-element file-default" data-file_info="%7B%22fid%22:%22223%22,%22view_mode%22:%22default%22,%22fields%22:%7B%22format%22:%22default%22,%22field_file_image_alt_text%5Bund%5D%5B0%5D%5Bvalue%5D%22:%22Meat,%20spinach,%20and%20beans%20image%22,%22field_file_image_title_text%5Bund%5D%5B0%5D%5Bvalue%5D%22:%22Meat,%20spinach,%20and%20beans%20image%22%7D,%22type%22:%22media%22%7D" src="/sites/default/files/sites/default/files/images/proteins_meat_spinach_beans_plate.png" style="font-size: 13.0080003738403px; font-weight: normal; line-height: 1.538em; float: right; width: 30%;" title="Meat, spinach, and beans image" /></h3>
+
+<ul><li>Meat, poultry, fish, dry beans and peas, eggs, nuts, and seeds supply many nutrients. These include protein, B vitamins (niacin, thiamin, riboflavin, and B6), vitamin E, iron, zinc, and magnesium.</li>
+	<li>Diets that are high in saturated fats raise “bad” cholesterol levels in the blood. The “bad” cholesterol is called LDL (low-density lipoprotein) cholesterol. High LDL cholesterol, in turn, increases the risk for coronary heart disease. Some food choices in this group are high in saturated fat. These include fatty cuts of beef, pork, and lamb; regular (75% to 85% lean) ground beef; regular sausages, hot dogs, and bacon; some luncheon meats such as regular bologna and salami; and some poultry such as duck. To help keep blood cholesterol levels healthy, limit the amount of these foods you eat.</li>
+	<li>Diets that are high in cholesterol can raise LDL cholesterol levels in the blood. Cholesterol is only found in foods from animal sources. Some foods from this group are high in cholesterol. These include egg yolks (egg whites are cholesterol-free) and organ meats such as liver and giblets. To help keep blood cholesterol levels healthy, limit the amount of these foods you eat.</li>
+	<li>A high intake of fats makes it difficult to avoid consuming more calories than are needed.<br />
+	 </li>
+</ul><h3>Why is it important to eat 8 ounces of seafood per week?</h3>
+
+<ul><li>Seafood contains a range of nutrients, notably the omega-3 fatty acids, EPA and DHA. Eating about 8 ounces per week of a variety of seafood contributes to the prevention of heart disease. Smaller amounts of seafood are recommended for young children.</li>
+	<li>Seafood varieties that are commonly consumed in the United States that are higher in EPA and DHA and lower in mercury include salmon, anchovies, herring, sardines, Pacific oysters, trout, and Atlantic and Pacific mackerel (not king mackerel, which is high in mercury). The health benefits from consuming seafood outweigh the health risk associated with mercury, a heavy metal found in seafood in varying levels.<br />
+	 </li>
+</ul><h3>Health benefits</h3>
+
+<ul><li>Proteins function as building blocks for bones, muscles, cartilage, skin, and blood. They are also building blocks for enzymes, hormones, and vitamins. Proteins are one of three nutrients that provide calories (the others are fat and carbohydrates).</li>
+	<li>Nutrients provided by various protein foods can differ. Varying your protein food choices can provide your body with a range of nutrients designed to keep your body functioning well. B vitamins help build tissue and aid in forming red blood cells. Iron can prevent anemia. Magnesium helps build bones and supports muscle function. Zinc can support your immune systems.</li>
+	<li>EPA and DHA are omega-3 fatty acids found in varying amounts in seafood. Eating 8 ounces per week of seafood may help reduce the risk for heart disease.<br /><br />
+	 </li>
+</ul>
+      
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="usa-footer usa-footer-medium" role="contentinfo">
+  <div class="usa-grid usa-footer-return-to-top">
+    <a href="#">Return to top</a>
+  </div>
+    <div class="usa-footer-primary-section">
+    <div class="usa-grid">
+      <nav class="usa-footer-nav ">
+                
+  <div class="region region-footer-menu">
+    
+
+
+    
+        <ul class="usa-unstyled-list">
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/">Home</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/eathealthy/WhatIsMyPlate">Eat Healthy</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/browse-by-audience/view-all-audiences">Browse By Audience</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/resources/all-resources">Resources</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/myplatekitchen">MyPlate Kitchen</a>
+        </li>
+        
+          </ul>
+    
+  
+
+
+
+  </div>
+
+              </nav>
+
+      
+          </div>
+  </div>
+  
+    <div class="usa-footer-secondary_section">
+
+        <div class="usa-grid">
+      
+  <div class="region region-footer-secondary">
+    <div id="block-footersubmenu" class="block block-block-content block-block-content9274ca6f-9b3e-4dc0-8629-3550e6ef1ba4">
+  
+    
+      
+            <div class="usa-grid-full">
+<nav aria-labelledby="block-usda-footernavigation-menu" class="usa-footer-nav" data-block-plugin-id="system_menu_block:footer-navigation" id="block-usda-footernavigation"><div class="usa-width-two-thirds">
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation"><li class="usa-footer-navigation-link"><a href="https://www.usda.gov/policies-and-links" id="anch_69">Policies and Links</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/our-agency/about-usda/performance" id="anch_70">Our Performance</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/our-agency/careers" id="anch_71">Careers</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/oig/contractorform.htm" id="anch_72">Report Fraud on USDA Contracts</a></li>
+</ul></div>
+
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation"><li class="usa-footer-navigation-link"><a href="https://www.usda.gov/oig/index.htm" id="anch_73">Visit OIG</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/plain-writing" id="anch_74">Plain Writing</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/open" id="anch_75">Open</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.dm.usda.gov/foia/" id="anch_77">FOIA</a></li>
+</ul></div>
+
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation"><li class="usa-footer-navigation-link"><a href="https://www.usda.gov/accessibility-statement" id="anch_78">Accessibility Statement</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/privacy-policy" id="anch_79">Privacy Policy</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/non-discrimination-statement" id="anch_80">Non-Discrimination Statement</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.ascr.usda.gov/civil-rights-statements" id="anch_81">Anti-Harassment Policy</a></li>
+	<li class="usa-footer-navigation-link"><a href="http://www.ocio.usda.gov/policy-directives-records-forms/information-quality-activities" id="anch_82">Information Quality</a></li>
+</ul></div>
+
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation"><li class="usa-footer-navigation-link"><a href="https://www.usa.gov" id="anch_83">USA.gov</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.whitehouse.gov" id="anch_84">Whitehouse.gov</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/federal-web-site-inventory" id="anch_85">eGov</a></li>
+	<li class="usa-footer-navigation-link"><a href="mailto:feedback@oc.usda.gov" id="anch_86">Feedback</a></li>
+</ul></div>
+</div>
+
+<div class="usa-sign_up-block usa-width-one-third">
+<h3 class="usa-sign_up-header" id="block-footersignup-menu">Sign Up for Updates</h3>
+
+<form action="https://public.govdelivery.com/accounts/USDACNPP/subscriber/new"><label class="signup__label" for="block-footersignup-label">Your email address</label> <input class="signup__input" id="block-footersignup-label" name="email" type="email" /><input class="signup__button" name="commit" type="submit" value="Sign Up" /> </form>
+</div>
+</nav></div>
+
+      
+  </div>
+
+  </div>
+
+    </div>
+    
+  </div>
+  
+  <div class="usa-footer-branding_section">
+    <div class="usa-grid">
+        <div class="usa-grid-full">
+      <div class="usa-logo usa-width-one-half">
+        <a class="usda-logo-text" href="/" title="Home" aria-label=ChooseMyPlate rel="home" id="anch_2">
+          <span title="Home" rel="home" class="usda-logo">
+            <img src="/themes/custom/usda_myplatekitchen_theme/assets/img/usda-symbol.svg" alt="USDA OHA Logo" class="usda-logo-img">
+          </span> ChooseMyPlate
+          <div class="tagline">U.S. Department of Agriculture</div>
+        </a>
+      </div>
+
+            <div class="usa-footer-contact-links usa-width-one-half">
+
+                <a class="usa-link-facebook" href="https://www.facebook.com/MyPlate">
+          <span>Facebook</span>
+        </a>
+        
+                <a class="usa-link-twitter" href="https://twitter.com/MyPlate">
+          <span>Twitter</span>
+        </a>
+        
+        
+                <a class="usa-link-youtube" href="https://www.youtube.com/playlist?list=PL8wgGeKVh_7d4x7icBCNj99MsachAAChi">
+          <span>YouTube</span>
+        </a>
+        
+                <a class="usa-link-govdelivery" href="https://public.govdelivery.com/accounts/USDACNPP/subscriber/new">
+          <span>GovDelivery</span>
+        </a>
+        
+        
+        
+                <a class="usa-link-pinterest" href="https://www.pinterest.com/myplategov/">
+          <span>Pinterest</span>
+        </a>
+        
+        
+        <address>
+          
+          
+                  </address>
+      </div>
+          </div>
+        </div>
+  </div>
+</footer>
+
+  </div>
+
+    <script type="text/javascript">
+/**/
+</script>
+<script></script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/5521","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"better_exposed_filters\/general,classy\/base,classy\/messages,classy\/node,clientside_validation_jquery\/cv.jquery.ckeditor,clientside_validation_jquery\/cv.jquery.ife,clientside_validation_jquery\/cv.jquery.validate,core\/html5shiv,core\/normalize,flag\/flag.link_ajax,google_analytics\/google_analytics,moderated_content_bulk_publish\/moderated-content-bulk-publish,sharethis\/sharethis,sharethis\/sharethispickerexternalbuttons,sharethis\/sharethispickerexternalbuttonsws,statistics\/drupal.statistics,system\/base,usfedgov_google_analytics\/load-analytics-cdn,uswds\/drupal,uswds\/uswds,webform\/webform.dialog","theme":"usda_myplatekitchen_theme","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false},"google_analytics":{"account":"UA-8794026-18","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true,"trackDomainMode":1},"webform":{"dialog":{"options":{"narrow":{"title":"Narrow","width":600},"normal":{"title":"Normal","width":800},"wide":{"title":"Wide","width":1000},"quiz":{"title":"Quiz","width":400}},"entity_type":"node","entity_id":"5521"}},"statistics":{"data":{"nid":"5521"},"url":"\/core\/modules\/statistics\/statistics.php"},"sharethis":{"publisher":"dr-a4c77d2-7a3-617b-d6f1-25708a6a31e6","version":"5x","doNotCopy":true,"hashAddressBar":false,"doNotHash":true,"onhover":false,"shorten":"false"},"user":{"uid":0,"permissionsHash":"7884bdca28298a7b37ecb61559cb576b417f737fee5d02c2ce89c5bad31ebd51"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.7.11"></script>
+<script src="/core/misc/drupal.js?v=8.7.11"></script>
+<script src="/core/misc/drupal.init.js?v=8.7.11"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="/modules/contrib/sharethis/js/sharethis.js?q63s6o"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.7.11"></script>
+<script src="/modules/contrib/moderated_content_bulk_publish/js/moderated_content_bulk_publish.js?q63s6o"></script>
+<script src="/themes/custom/usda_myplatekitchen_theme/assets/js/uswds.min.js?v=1.0.0"></script>
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=CNPP&amp;pua=0" id="_fed_an_ua_tag"></script>
+<script src="/core/misc/progress.js?v=8.7.11"></script>
+<script src="/core/misc/ajax.js?v=8.7.11"></script>
+<script src="/core/misc/debounce.js?v=8.7.11"></script>
+<script src="/core/misc/displace.js?v=8.7.11"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/position-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=1.12.1"></script>
+<script src="/core/misc/dialog/dialog.js?v=8.7.11"></script>
+<script src="/core/misc/dialog/dialog.position.js?v=8.7.11"></script>
+<script src="/core/misc/dialog/dialog.jquery-ui.js?v=8.7.11"></script>
+<script src="/core/misc/dialog/dialog.ajax.js?v=8.7.11"></script>
+<script src="/modules/contrib/webform/js/webform.jquery.ui.dialog.js?v=8.7.11"></script>
+<script src="/modules/contrib/webform/js/webform.dialog.js?v=8.7.11"></script>
+<script src="/core/modules/statistics/statistics.js?v=8.7.11"></script>
+<script src="https://ws.sharethis.com/button/buttons.js"></script>
+<script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?v=3.x"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.validate.js?q63s6o"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.ckeditor.js?q63s6o"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.ife.js?q63s6o"></script>
+<script src="/modules/contrib/flag/js/flag-action_link_flash.js?v=8.7.11"></script>
+
+    <script src="/themes/custom/usda_myplatekitchen_theme/assets/js/custom.js"></script>
+  </body>
+</html>

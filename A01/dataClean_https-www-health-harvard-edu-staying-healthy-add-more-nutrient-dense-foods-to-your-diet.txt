@@ -1,0 +1,1272 @@
+
+
+[if lt IE 8]>      <body class="lt-ie9 lt-ie8 page-content method-index env-production"> <!
+[endif]
+
+[if IE 8]>         <body class="lt-ie9 page-content method-index env-production"> <!
+[endif]
+
+[if IE 9]>         <body class="ie9 page-content method-index env-production"> <!
+[endif]
+
+[if gt IE 9]><!
+
+
+
+
+
+<!
+[endif]
+
+Skip to content
+
+[if lt IE 8]><p class="chromeframe">Your browser is outdated.
+<a href="http://browsehappy.com/" target="_blank">Upgrade to a modern browser</a> to better experience this site.</p> <!
+[endif]
+
+Search
+
+Cart
+
+Admin
+
+ HEALTH TOPICS
+
+▼
+
+Browse by Topic
+
+Heart Health
+
+« Back
+
+Blood Pressure
+
+Cholesterol
+
+Coronary Artery Disease
+
+Heart Attack
+
+Heart Failure
+
+Heart Medications
+
+Stroke
+
+Mind & Mood
+
+« Back
+
+Addiction
+
+Adult & Child ADHD
+
+Alzheimer's & Dementia
+
+Anxiety
+
+Depression
+
+Improving Memory
+
+Mental Health
+
+Positive Psychology
+
+Stress
+
+Pain
+
+« Back
+
+Arthritis
+
+Back Pain
+
+Headache
+
+Joint Replacement
+
+Other Pain
+
+Staying Healthy
+
+« Back
+
+Aging
+
+Balance & Mobility
+
+Diet & Weight Loss
+
+Energy & Fatigue
+
+Exercise & Fitness
+
+Healthy Eating
+
+Physical Activity
+
+Screening Tests for Men
+
+Screening Tests for Women
+
+Sleep
+
+Cancer
+
+« Back
+
+Breast Cancer
+
+Colorectal Cancer
+
+Other Cancers
+
+Prostate Health & Disease
+
+Skin Cancer
+
+Diseases & Conditions
+
+« Back
+
+Adult & Child ADHD
+
+Alzheimer's & Dementia
+
+Diabetes
+
+Digestive Health
+
+Heart Disease
+
+More Diseases & Conditions
+
+Osteoporosis
+
+Stroke
+
+Thyroid Diseases
+
+Men's Health
+
+« Back
+
+Birth Control
+
+Erectile Dysfunction
+
+Exercise & Fitness
+
+Healthy Eating
+
+Men's Sexual Health
+
+Prostate Cancer
+
+Prostate Health & Disease
+
+Screening Tests for Men
+
+Women's Health
+
+« Back
+
+Birth Control
+
+Breast Health & Disease
+
+Exercise & Fitness
+
+Healthy Eating
+
+Menopause
+
+Osteoporosis
+
+Pregnancy
+
+Screening Tests for Women
+
+Women's Sexual Health
+
+Children's Health
+
+« Back
+
+Adult & Child ADHD
+
+Autism
+
+Developmental Milestones
+
+Learning Disabilities
+
+Nutrition
+
+Nutrition for children
+
+Parenting Issues
+
+Physical Activity
+
+Vaccinations
+
+Licensing
+
+Search Harvard Health Publishing
+
+What can we help you find?
+Enter search terms and tap the Search button.
+
+ You can narrow your results by selecting to search within articles or products.
+
+Both articles and products will be searched.
+
+Shopping Cart
+
+Description
+
+Qty
+
+Price
+
+The Harvard Medical School 6-Week Plan for Healthy Eating
+
+(Print - Free U.S.
+Shipping!)
+
+						$20.00
+
+
+
+Improving Memory: Understanding Age-Related Memory Loss
+
+(PDF - Lowest Price!)
+
+						$18.00
+
+
+
+Harvard Health Letter
+
+(Print & Online Access (PDF)!)
+
+						$16.00
+
+
+
+Subtotal
+
+$54.00
+
+Update Cart
+
+Checkout
+
+Please note: If you have a promotional code you'll be prompted to enter it prior to confirming your order.
+
+Customer Sign In
+
+Returning Customer
+
+If you have an account, please sign in.
+
+New Customers
+
+If you subscribe to any of our print newsletters and have never activated your online account, please activate your account below for online access.
+By activating your account, you will create a login and password.
+
+You only need to activate your account once.
+
+Activate My Account
+
+Library
+
+Manage Print Subscriptions
+
+Edit Account Settings
+
+Customer Service
+
+Sign Out
+
+Pay Your Bill Online
+
+Pay My Bill »
+
+	.global-header-column {
+
+		position: relative;
+
+	}
+
+	.global-header-column .button {
+
+		position: absolute;
+
+		right: 0;
+
+		bottom: 20px;
+
+		background-color: #6f91bf;
+
+		border-color: #6f91bf;
+
+		padding: 2px 1em;
+
+		height: auto;
+
+	}
+
+	@media (max-width: 540px) {
+
+		.global-header-column .button {
+
+			display: none;
+
+		}
+
+	}
+
+Pay My Bill »
+
+ Cart
+
+
+
+ <a class="global-user-account-nav-link" data-toggle="modal" data-target="#healthbeat-modal" data-remote="false" href="/healthbeat">Free Healthbeat Signup</a>
+
+Free Healthbeat Signup
+
+Shop ▼
+
+Subscribe
+
+Special Health Reports
+
+Books
+
+Account ▼
+
+Cart
+
+Library
+
+Manage Print Subscriptions
+
+Edit Account Settings
+
+Customer Service
+
+Sign Out
+
+Sign In
+
+ Global Search
+
+Search
+
+ Generated: 2020-02-29 09:17:08
+
+
+
+ active-section
+
+Heart Health
+
+Inside Heart Health:
+
+Blood Pressure
+
+Cholesterol
+
+Coronary Artery Disease
+
+Heart Attack
+
+Heart Failure
+
+Heart Medications
+
+Stroke
+
+Featured Content:
+
+										Cardiology specialists: When you need extra expertise
+
+»
+
+										Home cooking with less salt
+
+»
+
+										How noise pollution may harm the heart
+
+»
+
+										Seed of the month: Flaxseeds
+
+»
+
+										What causes a leaky mitral valve?
+
+»
+
+See All
+
+In Case You Missed It:
+
+How much cardio should you do?
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+Post stroke: Addressing thinking and memory problems
+
+Controlling your weight is key to lowering stroke risk
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Mind & Mood
+
+Inside Mind & Mood:
+
+Addiction
+
+Adult & Child ADHD
+
+Alzheimer's & Dementia
+
+Anxiety
+
+Depression
+
+Improving Memory
+
+Mental Health
+
+Positive Psychology
+
+Stress
+
+Featured Content:
+
+										Meditation may help you catch mental mistakes
+
+»
+
+										The facts about Parkinson’s Disease
+
+»
+
+										Can my job cause high blood pressure?
+
+»
+
+										Don’t stress about heart health
+
+»
+
+										Focus on concentration
+
+»
+
+See All
+
+In Case You Missed It:
+
+Harnessing the upsides of stress
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+The impact of stress on your gut
+
+The effects of marijuana on your memory
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Pain
+
+Inside Pain:
+
+Arthritis
+
+Back Pain
+
+Headache
+
+Joint Replacement
+
+Other Pain
+
+Featured Content:
+
+										Don’t take back pain sitting down
+
+»
+
+										Giving steroid injections a shot
+
+»
+
+										When is it time for a knee replacement?
+
+»
+
+										Can mind-body therapies help reduce reliance on opioids?
+
+»
+
+										Back X-Rays (Spine X-Rays)
+
+»
+
+See All
+
+In Case You Missed It:
+
+4 ways to turn good posture into less back pain
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+Create a plan to relieve your back pain
+
+Hip Replacement: Is the timing right?
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Staying Healthy
+
+Inside Staying Healthy:
+
+Aging
+
+Balance & Mobility
+
+Diet & Weight Loss
+
+Energy & Fatigue
+
+Exercise & Fitness
+
+Healthy Eating
+
+Physical Activity
+
+Screening Tests for Men
+
+Screening Tests for Women
+
+Sleep
+
+Featured Content:
+
+										Bargain or beware?
+Tips to buy gently used medical equipment
+
+»
+
+										Common physical problems that threaten your driving skills
+
+»
+
+										Focus on easier reading
+
+»
+
+										Keeping tabs on triglycerides
+
+»
+
+										Plant milk or cow’s milk: Which is better for you?
+
+»
+
+See All
+
+In Case You Missed It:
+
+5 key questions to help you develop a caregiving plan
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+How much cardio should you do?
+
+Stand up for your health
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Cancer
+
+Inside Cancer:
+
+Breast Cancer
+
+Colorectal Cancer
+
+Other Cancers
+
+Prostate Health & Disease
+
+Skin Cancer
+
+Featured Content:
+
+										Heart disease and cancer risk may be linked
+
+»
+
+										Bone Marrow Biopsy
+
+»
+
+										Chemotherapy
+
+»
+
+										Skin Biopsy
+
+»
+
+										Stereotactic Biopsy of the Breast
+
+»
+
+See All
+
+In Case You Missed It:
+
+Treating prostate cancer with combined hormonal-radiation therapy
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+4 tips for coping with an enlarged prostate
+
+                When a man reaches about age 25, his prostate begins to grow.
+
+
+
+Can diet help fight prostate cancer?
+
+
+
+Can adopting a healthier diet help fight prostate cancer?
+
+
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Diseases & Conditions
+
+Inside Diseases & Conditions:
+
+Adult & Child ADHD
+
+Alzheimer's & Dementia
+
+Diabetes
+
+Digestive Health
+
+Heart Disease
+
+More Diseases & Conditions
+
+Osteoporosis
+
+Stroke
+
+Thyroid Diseases
+
+Featured Content:
+
+										Is osteoarthritis reversible?
+
+»
+
+										Should I take blood pressure medications at night?
+
+»
+
+										Coronavirus Resource Center
+
+»
+
+										The facts about Parkinson’s Disease
+
+»
+
+										What’s causing bladder pain or burning?
+
+»
+
+See All
+
+In Case You Missed It:
+
+An enlarged prostate gland and incontinence
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+The gut-brain connection
+
+The lowdown on glycemic index and glycemic load
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Men's Health
+
+Inside Men's Health:
+
+Birth Control
+
+Erectile Dysfunction
+
+Exercise & Fitness
+
+Healthy Eating
+
+Men's Sexual Health
+
+Prostate Cancer
+
+Prostate Health & Disease
+
+Screening Tests for Men
+
+Featured Content:
+
+										What can I do about urinary dribbling?
+
+»
+
+										The option of prostate cancer surgery
+
+»
+
+										Mushrooms may protect against prostate cancer
+
+»
+
+										Prostate cancer and your sex life
+
+»
+
+										What does blood in my semen mean?
+
+»
+
+See All
+
+In Case You Missed It:
+
+Treatment: Watchful waiting for an enlarged prostate
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+An enlarged prostate gland and incontinence
+
+Treating prostate cancer with combined hormonal-radiation therapy
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Women's Health
+
+Inside Women's Health:
+
+Birth Control
+
+Breast Health & Disease
+
+Exercise & Fitness
+
+Healthy Eating
+
+Menopause
+
+Osteoporosis
+
+Pregnancy
+
+Screening Tests for Women
+
+Women's Sexual Health
+
+Featured Content:
+
+										Menopause and mental health
+
+»
+
+										Researchers test new technology for screening dense breasts
+
+»
+
+										Could your breast implants be making you sick?
+
+»
+
+										The growing problem of drug-resistant UTIs
+
+»
+
+										Hair thinning?
+Get to the root of the problem
+
+»
+
+See All
+
+In Case You Missed It:
+
+Hypothyroidism symptoms and signs in an older person
+
+
+
+Some people over age 60 have few, if any, symptoms of an underactive thyroid gland (hypothyroidism), while others experience the same symptoms younger people do.
+
+
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+What's your t-score?
+Bone density scans for osteoporosis
+
+
+
+Several technologies can assess bone density, but the most common is known as dual energy x-ray absorptiometry (DEXA).
+
+
+
+5 ways to boost bone strength early
+
+
+
+The best prevention for bone-thinning osteoporosis begins early — during the first two decades of life, when you can most influence your peak bone mass by getting enough calcium and vitamin D and doing bone-strengthening exercise.
+
+
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+
+
+ active-section
+
+Children's Health
+
+Inside Children's Health:
+
+Adult & Child ADHD
+
+Autism
+
+Developmental Milestones
+
+Learning Disabilities
+
+Nutrition
+
+Nutrition for children
+
+Parenting Issues
+
+Physical Activity
+
+Vaccinations
+
+Featured Content:
+
+										Different types of heart murmurs
+
+»
+
+										Should I worry about grandkids’ sports?
+
+»
+
+										CPR Resource Center
+
+»
+
+										School Lunches
+
+»
+
+										Attention deficit/hyperactivity disorder (ADHD) in children
+
+»
+
+See All
+
+In Case You Missed It:
+
+ </div>
+
+<div class="sub-nav-group col-sm-3">
+
+						Get the latest news on health and wellness
+
+delivered to your inbox!
+
+
+
+Licensing
+
+ Main content's .container
+
+content_id:   10160content_type: newsletter_article
+
+Harvard Health Letter
+
+Add more nutrient-dense foods to your diet
+
+Updated: July 17, 2015Published: July, 2015
+
+Foods such as kale, cantaloupe, and quinoa can boost the amount of nutrients you consume without increasing calories.
+
+Getting enough nutrients through diet is challenging as we age.
+Our bodies don't absorb nutrients as well as they once did, yet we tend to need fewer calories and eat less.
+So it's important to make the most out of the foods we do eat.
+One way is by choosing more nutrient-dense foods, which provide more nutrition bang for the calorie buck.
+"They contain an abundance of nutrients and other healthful substances—vitamins and minerals, fiber, lean protein, and unsaturated fats—but are not excessive in calories.
+This is compared with foods of low nutrient density that are high in calories," says Liz Moore, a registered dietitian at Harvard-affiliated Beth Israel Deaconess Medical Center.
+
+        To continue reading this article, you must
+
+login.
+
+
+
+Subscribe to Harvard Health Online for immediate access to health news and information from Harvard Medical School.
+
+Research health conditions
+
+Check your symptoms
+
+Prepare for a doctor's visit or test
+
+Find the best treatments and procedures for you
+
+Explore options for better nutrition and exercise
+
+Learn more about the many benefits and features of joining Harvard Health Online »
+
+I'd like to receive access to Harvard Health Online for only $4.99 a month.
+
+Sign Me Up »
+
+ <div class="dialog-foot">
+
+        Already a member?
+<a class="dialog-foot-link" href="https://www.health.harvard.edu/login">Login &raquo;</a>
+
+    </div>
+
+Related Articles
+
+Boost the health of your holiday buffet
+
+Healthy diet: Is glycemic index the key?
+
+New concerns about diet sodas
+
+Get cracking: Why you should eat more nuts
+
+Should you work chocolate into your diet?
+
+Scientifically proven diets that work
+
+Related Topics
+
+Staying Healthy
+
+Diet & Weight Loss
+
+Healthy Eating
+
+Nutrition
+
+Subscriptions
+
+Pay My Bill
+
+Access Digital Subscriptions
+
+Subscribe
+
+Customer Service
+
+Online Learning Courses
+
+Cognitive Fitness
+
+Controlling Your Blood Pressure
+
+Back Pain
+
+Improving Your Memory
+
+Starting to Exercise
+
+6-Week Plan For Healthy Eating
+
+Already enrolled?
+Sign in here
+
+        Sign Up Now For
+
+HEALTHbeat
+
+        Our FREE E-Newsletter
+
+
+
+Get health information and advice from the experts at Harvard Medical School.
+
+E-mail Address
+
+First Name (Optional)
+
+
+
+ .form-field_block
+
+
+
+ .form-column
+
+
+
+ .form-row
+
+Related Articles
+
+Boost the health of your holiday buffet
+
+Healthy diet: Is glycemic index the key?
+
+New concerns about diet sodas
+
+Get cracking: Why you should eat more nuts
+
+Should you work chocolate into your diet?
+
+Scientifically proven diets that work
+
+Daily Health Tip
+
+Choose healthy snacks
+
+Keep nutritious snack options on hand, such as veggies and dip, yogurt and nuts, and whole fruits.
+Packaged snacks tend to lack nutrients and to be laden with fat, sodium, and calories.
+
+Related Topics
+
+Staying Healthy
+
+Diet & Weight Loss
+
+Healthy Eating
+
+Nutrition
+
+
+
+ /.container - Main content's .container
+
+ end #main
+
+<li class="footer-nav-li"><a class="mobile-footer-nav-link" href="/">Home</a></li>
+
+Sign up for HEALTHbeat
+
+Digital Subscriptions
+
+Special Health Reports
+
+Print Subscriptions
+
+Customer Service
+
+About Us
+
+Permissions
+
+Do Not Sell My Personal Information
+
+Privacy Policy
+
+Facebook
+
+Twitter
+
+RSS
+
+					© 2010 - 2020 Harvard University.
+All rights reserved.
+
+
+
+ end .row
+
+ end .container
+
+ end .global-wrapper
+
+×
+
+Sign Up Now For
+
+HEALTHbeat.
+Our FREE E-mail Newsletter
+
+In each issue of HEALTHbeat:
+
+Get trusted advice from the doctors at Harvard Medical School
+
+Learn tips for living a healthy lifestyle
+
+Stay up-to-date on the latest developments in health
+
+Receive special offers on health books and reports
+
+Plus, receive your
+
+FREE Bonus Report, "101 Tips for Tip-Top Health"
+
+E-mail Address
+
+First Name (Optional)
+
+
+
+ .form-field_block
+
+
+
+ .form-column
+
+
+
+ .form-row
+
+
+
+ .wrapper-not-row
+
+
+
+ .form
+
+
+
+ .column
+
+
+
+ .row
+
+
+
+ .modal-body
+
+
+
+ .modal-content
+
+
+
+ .modal-dialog
+
+
+
+ .modal
+
+window.jQuery || document.write('<script src="/js/lib/jquery-1.11.2.min.js"><\/script>');
+
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+
+j.async=1;j.src=o;j.dataset.sumoSiteId='de661bf87183cd1d5bd408e0b2b1337ab3388a4010347564fd648fe662d08ba8';
+
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+
+
+
