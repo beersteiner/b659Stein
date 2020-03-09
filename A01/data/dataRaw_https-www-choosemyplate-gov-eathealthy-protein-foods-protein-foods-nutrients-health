@@ -33,9 +33,7 @@ gtag('config', 'UA-27379012-33');</script>
 <script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
 <![endif]-->
 
-  
-                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"127601",ustr:"",originlat:"0",clientrtt:"17",ghostip:"104.102.248.181",ipv6:false,pct:"10",clientip:"173.243.179.122",requestid:"8085b5aa",region:"35154",protocol:"",blver:14,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"8085b5aa",ai:"77711",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
-                    </head>
+  </head>
   <body class="path-node page-node-type-page context-eathealthy-protein-foods-protein-foods-nutrients-health">
         <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
@@ -707,7 +705,7 @@ gtag('config', 'UA-27379012-33');</script>
         
       </li>
           <li>
-        <a href="/eathealthy/WhatIsMyPlate" class="usa-current">
+        <a href="/eathealthy" class="usa-current">
           <span>Eat Healthy</span>
         </a>
 
@@ -723,7 +721,7 @@ gtag('config', 'UA-27379012-33');</script>
         
       </li>
           <li>
-        <a href="/eathealthy/WhatIsMyPlate">
+        <a href="/eathealthy">
           <span>What is MyPlate?</span>
         </a>
 

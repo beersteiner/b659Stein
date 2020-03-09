@@ -1,8 +1,8 @@
 name: b659Stein
 channels:
+  - defaults
   - pytorch
   - conda-forge
-  - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=0_gnu
@@ -10,8 +10,10 @@ dependencies:
   - backcall=0.1.0=py_0
   - beautifulsoup4=4.8.2=py37_0
   - boto=2.49.0=py_0
+  - boto3=1.12.5=py_0
+  - botocore=1.15.6=py_0
   - bz2file=0.98=py_0
-  - ca-certificates=2019.11.28=hecc5488_0
+  - ca-certificates=2020.1.1=0
   - catalogue=1.0.0=py_0
   - certifi=2019.11.28=py37_0
   - cffi=1.13.2=py37h8022711_0
@@ -30,7 +32,9 @@ dependencies:
   - importlib_metadata=1.4.0=py37_0
   - intel-openmp=2019.4=243
   - ipykernel=5.1.4=py37h5ca1d4c_0
+  - ipython=7.12.0=py37h5ca1d4c_0
   - ipython_genutils=0.2.0=py_1
+  - jedi=0.16.0=py37_0
   - jmespath=0.9.4=py_0
   - jpeg=9c=h14c3975_1001
   - jsonschema=3.2.0=py37_0
@@ -59,7 +63,10 @@ dependencies:
   - nltk_data=2019.07.04=1
   - numpy=1.17.3=py37h95a1406_0
   - olefile=0.46=py_0
-  - openssl=1.1.1d=h516909a_0
+  - openssl=1.1.1d=h7b6447c_4
+  - parso=0.6.1=py_0
+  - pexpect=4.8.0=py37_0
+  - pickleshare=0.7.5=py37_1000
   - pillow=7.0.0=py37hefe7db6_0
   - pip=19.3.1=py37_0
   - plac=0.9.6=py37_0
@@ -78,12 +85,14 @@ dependencies:
   - pyzmq=18.1.1=py37h1768529_0
   - readline=8.0=hf8c457e_0
   - requests=2.22.0=py37_1
+  - s3transfer=0.3.3=py37_0
   - scipy=1.4.1=py37h921218d_0
   - setuptools=45.0.0=py37_1
   - six=1.13.0=py37_0
   - smart_open=1.9.0=py_0
   - soupsieve=1.9.4=py37_0
   - spacy=2.2.3=py37hc9558a2_0
+  - spacy-model-en_core_web_sm=2.2.5=py_0
   - sqlite=3.30.1=hcee41ef_0
   - srsly=1.0.0=py37he1b5a44_0
   - text-unidecode=1.2=py_0
@@ -103,53 +112,36 @@ dependencies:
   - zlib=1.2.11=h516909a_1006
   - zstd=1.4.4=h3b9ef0a_1
   - pip:
-    - boto3==1.11.2
-    - botocore==1.14.2
     - bpemb==0.3.0
     - click==7.0
-    - cloudpickle==1.2.2
-    - corenlp-pywrap==1.0.5
+    - cloudpickle==1.3.0
     - cycler==0.10.0
     - deprecated==1.2.7
-    - en-core-web-sm==2.2.5
     - filelock==3.0.12
     - flair==0.4.5
     - future==0.18.2
     - hyperopt==0.2.3
-    - ipython==7.6.1
-    - ipython-genutils==0.2.0
-    - jedi==0.15.2
     - joblib==0.14.1
     - kiwisolver==1.1.0
     - langdetect==1.0.7
-    - matplotlib==3.1.2
+    - matplotlib==3.1.3
     - mpld3==0.3
     - networkx==2.2
-    - packaging==20.0
-    - parso==0.5.2
-    - pexpect==4.7.0
-    - pickleshare==0.7.5
+    - packaging==20.1
     - pluggy==0.13.1
-    - prompt-toolkit==2.0.10
-    - psutil==5.6.7
     - py==1.8.1
     - pyparsing==2.4.6
-    - pytest==5.3.2
-    - pytorch-transformers==1.2.0
-    - regex==2020.1.8
-    - s3transfer==0.3.0
+    - pytest==5.3.5
+    - regex==2020.2.20
     - sacremoses==0.0.38
-    - scikit-learn==0.22.1
+    - scikit-learn==0.22.2
     - segtok==1.5.7
     - sentencepiece==0.1.85
-    - sklearn==0.0
     - sqlitedict==1.6.0
-    - stanfordcorenlp==3.9.1.1
     - tabulate==0.8.6
-    - tokenizers==0.0.11
-    - torch==1.1.0
-    - transformers==2.4.0
+    - tokenizers==0.5.2
+    - transformers==2.5.1
     - urllib3==1.24.3
-    - wrapt==1.11.2
-prefix: /home/john/Applications/anaconda3/envs/b659Stein
+    - wrapt==1.12.0
+prefix: /home/john/Apps/anaconda3/envs/b659Stein
 

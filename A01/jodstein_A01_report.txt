@@ -1,0 +1,30 @@
+John Stein (jodstein@iu.edu)
+28 Feb 2020
+
+
+The purpose of this document is to discuss the tasks completed so far towards Homework 1.
+
+Data Gathering:
+
+The approach I used for the data gathering was to implement a web scraping python script, based on BeautifulSoup 4, to automate the data gathering as much as possible.  My rationale for this approach was that hand-scraping would be time-intensive and tedious, and that we would need a large dataset.  In retrospect, I now realize I should have either focused on hand-cleaning the data in order to just get *some* good data and continue working on other aspects of the pipeline, or else leveraged publicly-available scrapers (the thought of borrowing someone else's scraping code simply didn't occur to me).  I do believe my own scraper could be still improved and produced auto-cleaned texts that need only minor tweaking (achieving 100% perfect formatting for diverse sources is probably not feasible).
+
+Annotating:
+
+Annotating the corpus using webanno proved to be much less problematic, but just as time-consuming (and likely a great way to acquire carpal tunnel).  Of the 10 texts I've acquired online, I've annotated 3 of them (using all available tags).  A chief complaint I have with the webanno tool is that there is no way (that I've seen) to correct parsing errors in the source text that one notices while s/he annotates without losing the annotation work completed thus far.  Fixing the source text within a CONLL-U or JSON file is infeasible for parsing errors that affect many instances in the text.
+
+
+Environment Preparation:
+
+* I have attained access on Carbonate, to include access to the deep learning module.
+
+* I have successfully run both spaCy and Flair examples on my personal machine.
+
+* I have, after much difficulty, been able to convert conll files to json files.  I was unsuccessful converting conllu files from webanno to json file, but was able to do it if I used the conll-2003 format instead.
+
+* TBD - Prepare Flair scripts with different word embeddings (Do you mean use different published word embeddings vice train our own?)
+
+* TBD - Prepare Carbonate batch job descriptions (This should be simple, I've used BR2 before so am familiar with TORQUE and qsub)
+
+* TBD - experiment on personal computer and/or Carbonate
+
+
