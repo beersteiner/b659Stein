@@ -1,5 +1,5 @@
 .idea
 *.so
 build
-A01/spacymodel/
-Ao1/flairmodel0/
+A01/spacymodel*
+Ao1/flairmodel*
