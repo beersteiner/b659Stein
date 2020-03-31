@@ -2,4 +2,6 @@
 *.so
 build
 A01/spacymodel*
-Ao1/flairmodel*
+A01/flairmodel*
+semantic-tech_creds.text
+
